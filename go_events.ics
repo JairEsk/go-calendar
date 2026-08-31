@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Roxy AI//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GO Events
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+UID:go-event-0-1788195327855@gocalendar.local
+DTSTAMP:20260831T165527Z
+DTSTART:20260905T100000
+DTEND:20260905T180000
+SUMMARY:Pokémon GO Fest: Mega Finale (Día 1 - Mega-Mewtwo X)
+DESCRIPTION:Evento Global. Incursiones principales: Mega-Mewtwo X.\n\nRotación de hábitats:\n- 10:00 a 11:00 y 14:00 a 15:00: Exuberancia verdosa\n- 11:00 a 12:00 y 15:00 a 16:00: Canal Mindworks\n- 12:00 a 13:00 y 16:00 a 17:00: Callejón inquietante\n- 13:00 a 14:00 y 17:00 a 18:00: Plaza del Circuito\n\nBonus: Incursiones remotas ilimitadas.
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-1-1788195327856@gocalendar.local
+DTSTAMP:20260831T165527Z
+DTSTART:20260906T100000
+DTEND:20260906T180000
+SUMMARY:Pokémon GO Fest: Mega Finale (Día 2 - Mega-Mewtwo Y)
+DESCRIPTION:Evento Global. Incursiones principales: Mega-Mewtwo Y.\n\nRotación de hábitats:\n- 10:00 a 11:00 y 14:00 a 15:00: Fábrica de Hielo Férreo\n- 11:00 a 12:00 y 15:00 a 16:00: Distrito de Batalla\n- 12:00 a 13:00 y 16:00 a 17:00: Nidos del Horizonte\n- 13:00 a 14:00 y 17:00 a 18:00: Paseo Prisma\n\nBonus: Incursiones remotas ilimitadas.
+END:VEVENT
+END:VCALENDAR
