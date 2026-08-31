@@ -6,42 +6,42 @@ METHOD:PUBLISH
 X-WR-CALNAME:GO Events
 X-WR-TIMEZONE:America/Mexico_City
 BEGIN:VEVENT
-UID:go-event-0-1788195816306@gocalendar.local
-DTSTAMP:20260831T170336Z
-DTSTART:20260831T100000
-DTEND:20260904T200000
+UID:go-event-0-roxy@gocalendar.local
+DTSTAMP:20260831T170359Z
+DTSTART;TZID=America/Mexico_City:20260831T100000
+DTEND;TZID=America/Mexico_City:20260904T200000
 SUMMARY:Pokémon GO: Mega Ascensión
 DESCRIPTION:Semana de Mega Ascensión previa al evento Mega Finale. Acumula megaenergía de las incursiones semanales.
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-1-1788195816307@gocalendar.local
-DTSTAMP:20260831T170336Z
-DTSTART:20260905T100000
-DTEND:20260905T180000
+UID:go-event-1-roxy@gocalendar.local
+DTSTAMP:20260831T170359Z
+DTSTART;TZID=America/Mexico_City:20260905T100000
+DTEND;TZID=America/Mexico_City:20260905T180000
 SUMMARY:Pokémon GO Fest: Mega Finale (Día 1 - Mega-Mewtwo X)
 DESCRIPTION:Evento Global. Incursiones principales: Mega-Mewtwo X.\n\nRotación de hábitats:\n- 10:00 a 11:00 y 14:00 a 15:00: Exuberancia verdosa\n- 11:00 a 12:00 y 15:00 a 16:00: Canal Mindworks\n- 12:00 a 13:00 y 16:00 a 17:00: Callejón inquietante\n- 13:00 a 14:00 y 17:00 a 18:00: Plaza del Circuito\n\nBonus: Incursiones remotas ilimitadas.
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-2-1788195816307@gocalendar.local
-DTSTAMP:20260831T170336Z
-DTSTART:20260906T100000
-DTEND:20260906T180000
+UID:go-event-2-roxy@gocalendar.local
+DTSTAMP:20260831T170359Z
+DTSTART;TZID=America/Mexico_City:20260906T100000
+DTEND;TZID=America/Mexico_City:20260906T180000
 SUMMARY:Pokémon GO Fest: Mega Finale (Día 2 - Mega-Mewtwo Y)
 DESCRIPTION:Evento Global. Incursiones principales: Mega-Mewtwo Y.\n\nRotación de hábitats:\n- 10:00 a 11:00 y 14:00 a 15:00: Fábrica de Hielo Férreo\n- 11:00 a 12:00 y 15:00 a 16:00: Distrito de Batalla\n- 12:00 a 13:00 y 16:00 a 17:00: Nidos del Horizonte\n- 13:00 a 14:00 y 17:00 a 18:00: Paseo Prisma\n\nBonus: Incursiones remotas ilimitadas.
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-3-1788195816307@gocalendar.local
-DTSTAMP:20260831T170336Z
-DTSTART:20260914T140000
-DTEND:20260914T170000
+UID:go-event-3-roxy@gocalendar.local
+DTSTAMP:20260831T170359Z
+DTSTART;TZID=America/Mexico_City:20260914T140000
+DTEND;TZID=America/Mexico_City:20260914T170000
 SUMMARY:Super Mega Raid Day
 DESCRIPTION:Día especial de Incursiones Super Mega. Gran rotación de jefes de incursión incluyendo a Gyarados, Beedrill, Houndoom, Venusaur, Malamar y Victreebel.
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-4-1788195816307@gocalendar.local
-DTSTAMP:20260831T170336Z
-DTSTART:20260916T100000
-DTEND:20260930T100000
+UID:go-event-4-roxy@gocalendar.local
+DTSTAMP:20260831T170359Z
+DTSTART;TZID=America/Mexico_City:20260916T100000
+DTEND;TZID=America/Mexico_City:20260930T100000
 SUMMARY:Incursiones: Zacian, Zamazenta y Thundurus Oscuro
 DESCRIPTION:Zacian y Zamazenta regresan a las incursiones de 5 estrellas.\n\nDebut exclusivo de Thundurus Forma Encarnada Oscuro en las incursiones oscuras de los fines de semana.
 END:VEVENT
