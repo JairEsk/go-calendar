@@ -12,12 +12,18 @@
 
 ---
 
-## 🔗 Subscription Link
+## 🔗 Subscription Links
 
-Copy the URL below to subscribe to the events from any modern calendar application:
+Choose your preferred language and copy the URL to subscribe from any modern calendar application:
 
+### 🇬🇧 English Calendar
 ```text
-https://JairEsk.github.io/go-calendar/go_events.ics
+https://JairEsk.github.io/go-calendar/go_events_en.ics
+```
+
+### 🇪🇸 Calendario en Español
+```text
+https://JairEsk.github.io/go-calendar/go_events_es.ics
 ```
 
 ---
@@ -28,7 +34,7 @@ https://JairEsk.github.io/go-calendar/go_events.ics
 1. Go to **Settings** > **Calendar** > **Accounts**.
 2. Tap **Add Account** > **Other**.
 3. Tap **Add Subscribed Calendar**.
-4. Paste the URL above and tap **Next**, then **Save**.
+4. Paste the URL of your chosen language and tap **Next**, then **Save**.
 
 ### 💻 Windows Outlook
 1. Open the Outlook Calendar app.
@@ -48,7 +54,7 @@ https://JairEsk.github.io/go-calendar/go_events.ics
 
 This calendar is completely programmatic. You don't need to write `.ics` code manually!
 
-1. Open the `events.json` file.
+1. Open the data files: `events_en.json` (for English) or `events_es.json` (for Spanish).
 2. Add a new event using the following structure:
    ```json
    {
@@ -62,7 +68,7 @@ This calendar is completely programmatic. You don't need to write `.ics` code ma
    ```bash
    node generate.js
    ```
-4. Commit and push the changes to GitHub. The GitHub Pages server will automatically update the `.ics` file for all subscribed devices!
+4. Commit and push the changes to GitHub. The GitHub Pages server will automatically update the `.ics` files for all subscribed devices!
 
 ---
 <div align="center">

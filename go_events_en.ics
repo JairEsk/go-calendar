@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Roxy AI//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GO Events (EN)
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+UID:go-event-en-0-roxy@gocalendar.local
+DTSTAMP:20260831T171014Z
+DTSTART;TZID=America/Mexico_City:20260831T100000
+DTEND;TZID=America/Mexico_City:20260904T200000
+SUMMARY:Pokémon GO: Mega Ascension
+DESCRIPTION:Mega Ascension week prior to the Mega Finale event. Accumulate Mega Energy from weekly raids.
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-en-1-roxy@gocalendar.local
+DTSTAMP:20260831T171014Z
+DTSTART;TZID=America/Mexico_City:20260905T100000
+DTEND;TZID=America/Mexico_City:20260905T180000
+SUMMARY:Pokémon GO Fest: Mega Finale (Day 1 - Mega-Mewtwo X)
+DESCRIPTION:Global Event. Main Raids: Mega-Mewtwo X.\n\nHabitat Rotation:\n- 10:00 to 11:00 and 14:00 to 15:00: Verdant Lush\n- 11:00 to 12:00 and 15:00 to 16:00: Mindworks Channel\n- 12:00 to 13:00 and 16:00 to 17:00: Haunting Alley\n- 13:00 to 14:00 and 17:00 to 18:00: Circuit Plaza\n\nBonuses: Unlimited remote raids.
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-en-2-roxy@gocalendar.local
+DTSTAMP:20260831T171014Z
+DTSTART;TZID=America/Mexico_City:20260906T100000
+DTEND;TZID=America/Mexico_City:20260906T180000
+SUMMARY:Pokémon GO Fest: Mega Finale (Day 2 - Mega-Mewtwo Y)
+DESCRIPTION:Global Event. Main Raids: Mega-Mewtwo Y.\n\nHabitat Rotation:\n- 10:00 to 11:00 and 14:00 to 15:00: Iron Ice Factory\n- 11:00 to 12:00 and 15:00 to 16:00: Battle District\n- 12:00 to 13:00 and 16:00 to 17:00: Horizon Nests\n- 13:00 to 14:00 and 17:00 to 18:00: Prism Promenade\n\nBonuses: Unlimited remote raids.
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-en-3-roxy@gocalendar.local
+DTSTAMP:20260831T171014Z
+DTSTART;TZID=America/Mexico_City:20260914T140000
+DTEND;TZID=America/Mexico_City:20260914T170000
+SUMMARY:Super Mega Raid Day
+DESCRIPTION:Special Super Mega Raid Day. Huge rotation of raid bosses including Gyarados, Beedrill, Houndoom, Venusaur, Malamar, and Victreebel.
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-en-4-roxy@gocalendar.local
+DTSTAMP:20260831T171014Z
+DTSTART;TZID=America/Mexico_City:20260916T100000
+DTEND;TZID=America/Mexico_City:20260930T100000
+SUMMARY:Raids: Zacian, Zamazenta & Shadow Thundurus
+DESCRIPTION:Zacian and Zamazenta return to 5-star raids.\n\nExclusive debut of Shadow Incarnate Forme Thundurus in weekend shadow raids.
+END:VEVENT
+END:VCALENDAR

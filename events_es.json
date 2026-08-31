@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Pokémon GO: Mega Ascensión",
+    "start": "2026-08-31 10:00",
+    "end": "2026-09-04 20:00",
+    "description": "Semana de Mega Ascensión previa al evento Mega Finale. Acumula megaenergía de las incursiones semanales."
+  },
+  {
+    "title": "Pokémon GO Fest: Mega Finale (Día 1 - Mega-Mewtwo X)",
+    "start": "2026-09-05 10:00",
+    "end": "2026-09-05 18:00",
+    "description": "Evento Global. Incursiones principales: Mega-Mewtwo X.\\n\\nRotación de hábitats:\\n- 10:00 a 11:00 y 14:00 a 15:00: Exuberancia verdosa\\n- 11:00 a 12:00 y 15:00 a 16:00: Canal Mindworks\\n- 12:00 a 13:00 y 16:00 a 17:00: Callejón inquietante\\n- 13:00 a 14:00 y 17:00 a 18:00: Plaza del Circuito\\n\\nBonus: Incursiones remotas ilimitadas."
+  },
+  {
+    "title": "Pokémon GO Fest: Mega Finale (Día 2 - Mega-Mewtwo Y)",
+    "start": "2026-09-06 10:00",
+    "end": "2026-09-06 18:00",
+    "description": "Evento Global. Incursiones principales: Mega-Mewtwo Y.\\n\\nRotación de hábitats:\\n- 10:00 a 11:00 y 14:00 a 15:00: Fábrica de Hielo Férreo\\n- 11:00 a 12:00 y 15:00 a 16:00: Distrito de Batalla\\n- 12:00 a 13:00 y 16:00 a 17:00: Nidos del Horizonte\\n- 13:00 a 14:00 y 17:00 a 18:00: Paseo Prisma\\n\\nBonus: Incursiones remotas ilimitadas."
+  },
+  {
+    "title": "Super Mega Raid Day",
+    "start": "2026-09-14 14:00",
+    "end": "2026-09-14 17:00",
+    "description": "Día especial de Incursiones Super Mega. Gran rotación de jefes de incursión incluyendo a Gyarados, Beedrill, Houndoom, Venusaur, Malamar y Victreebel."
+  },
+  {
+    "title": "Incursiones: Zacian, Zamazenta y Thundurus Oscuro",
+    "start": "2026-09-16 10:00",
+    "end": "2026-09-30 10:00",
+    "description": "Zacian y Zamazenta regresan a las incursiones de 5 estrellas.\\n\\nDebut exclusivo de Thundurus Forma Encarnada Oscuro en las incursiones oscuras de los fines de semana."
+  }
+]
