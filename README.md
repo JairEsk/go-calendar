@@ -48,19 +48,19 @@ https://JairEsk.github.io/go-calendar/go_events.ics
 
 This calendar is completely programmatic. You don't need to write `.ics` code manually!
 
-1. Open the `eventos.json` file.
+1. Open the `events.json` file.
 2. Add a new event using the following structure:
    ```json
    {
-     "titulo": "Event Name",
-     "inicio": "YYYY-MM-DD HH:mm",
-     "fin": "YYYY-MM-DD HH:mm",
-     "descripcion": "Details about the event (spawns, raid bosses, bonuses)."
+     "title": "Event Name",
+     "start": "YYYY-MM-DD HH:mm",
+     "end": "YYYY-MM-DD HH:mm",
+     "description": "Details about the event (spawns, raid bosses, bonuses)."
    }
    ```
 3. Run the generator script in your terminal:
    ```bash
-   node generar.js
+   node generate.js
    ```
 4. Commit and push the changes to GitHub. The GitHub Pages server will automatically update the `.ics` file for all subscribed devices!
 
