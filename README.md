@@ -55,13 +55,13 @@ https://JairEsk.github.io/go-calendar/go_events_es.ics
 This calendar is completely programmatic. You don't need to write `.ics` code manually!
 
 1. Open the data files: `events_en.json` (for English) or `events_es.json` (for Spanish).
-2. Add a new event using the following structure:
+2. Add a new event using the following high-detail structure (Always include rotations and bonuses!):
    ```json
    {
      "title": "Event Name",
      "start": "YYYY-MM-DD HH:mm",
      "end": "YYYY-MM-DD HH:mm",
-     "description": "Details about the event (spawns, raid bosses, bonuses)."
+     "description": "Short summary.\\n\\nDaily Rotation:\\n- Monday: Boss A\\n- Tuesday: Boss B\\n\\nBonuses:\\n- 2x Catch XP\\n- 2 Extra Raid Passes"
    }
    ```
 3. Run the generator script in your terminal:
