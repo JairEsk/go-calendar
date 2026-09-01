@@ -7,7 +7,7 @@ X-WR-CALNAME:GO Events (ES)
 X-WR-TIMEZONE:America/Mexico_City
 BEGIN:VEVENT
 UID:go-event-32b8a07b9ccf738091e92b34384598e0@gocalendar.local
-DTSTAMP:20260901T035530Z
+DTSTAMP:20260901T062755Z
 DTSTART;TZID=America/Mexico_City:20260831T100000
 DTEND;TZID=America/Mexico_City:20260904T200000
 SUMMARY:Pokémon GO: Mega Ascensión
@@ -19,55 +19,55 @@ DESCRIPTION:Reminder: Pokémon GO: Mega Ascensión
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-bd841cb00664c112ad9d3c9798d65523@gocalendar.local
-DTSTAMP:20260901T035530Z
+UID:go-event-ee83bb6f3949fda4fbab0a61f3d37920@gocalendar.local
+DTSTAMP:20260901T062755Z
 DTSTART;TZID=America/Mexico_City:20260905T100000
 DTEND;TZID=America/Mexico_City:20260906T180000
-SUMMARY:Pokémon GO Fest: Mega Finale
+SUMMARY:Pokémon GO: Pokémon GO Fest: Mega Finale
 DESCRIPTION:Evento Global.\n\n💀 Incursiones principales:\n🔹 Mewtwo Acorazado\n🔹 Mega-Mewtwo X\n🔹 Mega-Mewtwo Y\n\n---\n🎁 Bonus:\n✅ Incursiones remotas ilimitadas\n✅ Fondos Especiales disponibles\n\n🔗 Fuente: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO Fest: Mega Finale
+DESCRIPTION:Reminder: Pokémon GO: Pokémon GO Fest: Mega Finale
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-1407112e22c2df5135caa1f5370aa984@gocalendar.local
-DTSTAMP:20260901T035530Z
+UID:go-event-dcb497226e066ccb86ee2d08e56e0b26@gocalendar.local
+DTSTAMP:20260901T062755Z
 DTSTART;TZID=America/Mexico_City:20260919T140000
 DTEND;TZID=America/Mexico_City:20260919T170000
-SUMMARY:Día de Super Megaincursiones
+SUMMARY:Pokémon GO: Día de Super Megaincursiones
 DESCRIPTION:¡Día especial de Incursiones Super Mega!\n\n---\n🎁 Detalles oficiales por anunciarse.\n\n🔗 Fuente: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Día de Super Megaincursiones
+DESCRIPTION:Reminder: Pokémon GO: Día de Super Megaincursiones
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-e82d628423c46078663759db4cfdc4c5@gocalendar.local
-DTSTAMP:20260901T035530Z
+UID:go-event-ba0ad590291023d4dd77f15dbfc6d278@gocalendar.local
+DTSTAMP:20260901T062755Z
 DTSTART;TZID=America/Mexico_City:20260909T100000
 DTEND;TZID=America/Mexico_City:20260916T100000
-SUMMARY:Incursiones: Zacian y Thundurus Oscuro
+SUMMARY:Pokémon GO: Incursiones Zacian y Thundurus
 DESCRIPTION:¡Actualización de Incursiones Legendarias!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Zacian (Héroe de Múltiples Batallas)\n🔹 Oscuras (Fin de semana): Thundurus Forma Encarnada\n\n---\n🎁 Bonus:\n✅ ¡Coordina en Campfire para las Incursiones Oscuras locales!\n\n🔗 Fuente: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Incursiones: Zacian y Thundurus Oscuro
+DESCRIPTION:Reminder: Pokémon GO: Incursiones Zacian y Thundurus
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-1f2b5e9b18b29e4b5f1124508dc8da43@gocalendar.local
-DTSTAMP:20260901T035530Z
+UID:go-event-ba0798c3571023c880fdd35761f21709@gocalendar.local
+DTSTAMP:20260901T062755Z
 DTSTART;TZID=America/Mexico_City:20260916T100000
 DTEND;TZID=America/Mexico_City:20260923T100000
-SUMMARY:Incursiones: Zamazenta
+SUMMARY:Pokémon GO: Incursiones Zamazenta
 DESCRIPTION:¡Actualización de Incursiones Legendarias!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Zamazenta (Héroe de Múltiples Batallas)\n🔹 Oscuras (Fin de semana): Thundurus Forma Encarnada\n\n---\n🔗 Fuente: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Incursiones: Zamazenta
+DESCRIPTION:Reminder: Pokémon GO: Incursiones Zamazenta
 END:VALARM
 END:VEVENT
 END:VCALENDAR
