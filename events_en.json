@@ -3,30 +3,30 @@
     "title": "Pokémon GO: Mega Ascension",
     "start": "2026-08-31 10:00",
     "end": "2026-09-04 20:00",
-    "description": "Mega Ascension week prior to the Mega Finale event. Accumulate Mega Energy from weekly raids.\\n\\nDaily Mega Raid Rotation:\\n- Monday, Aug 31: Mega Venusaur, Mega Charizard X/Y & Mega Blastoise.\\n- Tuesday, Sep 1: Mega Pidgeot, Mega Beedrill & Mega Slowbro.\\n- Wednesday, Sep 2: Mega Houndoom, Mega Manectric & Mega Altaria.\\n- Thursday, Sep 3: Mega Gengar, Mega Banette & Mega Absol.\\n- Friday, Sep 4: Mega Latios, Mega Latias & Mega Rayquaza.\\n\\nEvent Bonuses:\\n- Up to 2 free Raid Passes per day.\\n- 1.5x Mega Energy from Raids."
+    "description": "Mega Ascension week prior to the Mega Finale event.\\n\\nDaily Mega Raid Rotation:\\n- Mon, Aug 31: Mega Victreebel, Mega Dragonite, Mega Malamar\\n- Tue, Sep 1: Mega Falinks\\n- Wed, Sep 2: Mega Skarmory\\n- Thu, Sep 3: Mega Starmie\\n- Fri, Sep 4: Mega Raichu X, Mega Raichu Y\\n- All Week: Mega Latias, Mega Latios\\n\\nBonuses:\\n- Remote Raid Pass limit increased to 30.\\n- Special Backgrounds available for Mega Raids."
   },
   {
-    "title": "Pokémon GO Fest: Mega Finale (Day 1 - Mega-Mewtwo X)",
+    "title": "Pokémon GO Fest: Mega Finale",
     "start": "2026-09-05 10:00",
-    "end": "2026-09-05 18:00",
-    "description": "Global Event. Main Raids: Mega-Mewtwo X.\\n\\nHabitat Rotation (Local Time):\\n- 10:00 to 11:00 & 14:00 to 15:00: Verdant Lush\\n- 11:00 to 12:00 & 15:00 to 16:00: Mindworks Channel\\n- 12:00 to 13:00 & 16:00 to 17:00: Haunting Alley\\n- 13:00 to 14:00 & 17:00 to 18:00: Circuit Plaza\\n\\nBonuses: Unlimited remote raids. Special Backgrounds available."
-  },
-  {
-    "title": "Pokémon GO Fest: Mega Finale (Day 2 - Mega-Mewtwo Y)",
-    "start": "2026-09-06 10:00",
     "end": "2026-09-06 18:00",
-    "description": "Global Event. Main Raids: Mega-Mewtwo Y.\\n\\nHabitat Rotation (Local Time):\\n- 10:00 to 11:00 & 14:00 to 15:00: Iron Ice Factory\\n- 11:00 to 12:00 & 15:00 to 16:00: Battle District\\n- 12:00 to 13:00 & 16:00 to 17:00: Horizon Nests\\n- 13:00 to 14:00 & 17:00 to 18:00: Prism Promenade\\n\\nBonuses: Unlimited remote raids. Special Backgrounds available."
+    "description": "Global Event. Main Raids: Armored Mewtwo, Mega Mewtwo X & Y.\\n\\nBonuses:\\n- Unlimited remote raids.\\n- Special Backgrounds available."
   },
   {
     "title": "Super Mega Raid Day",
-    "start": "2026-09-14 14:00",
-    "end": "2026-09-14 17:00",
-    "description": "Special Super Mega Raid Day!\\n\\nHuge rotation of Raid Bosses appearing frequently:\\n- Gyarados\\n- Beedrill\\n- Houndoom\\n- Venusaur\\n- Malamar\\n- Victreebel\\n\\nBonuses:\\n- Increased Shiny odds for featured Pokémon.\\n- 5 extra free Raid Passes from Gyms."
+    "start": "2026-09-19 14:00",
+    "end": "2026-09-19 17:00",
+    "description": "Special Super Mega Raid Day!\\n\\nDetails to be officially announced but expect increased Mega Raids and bonuses!"
   },
   {
-    "title": "Raids: Zacian, Zamazenta & Shadow Thundurus",
+    "title": "Raids: Zacian & Shadow Thundurus",
+    "start": "2026-09-09 10:00",
+    "end": "2026-09-16 10:00",
+    "description": "Legendary Raids Update!\\n\\n- Zacian (Hero of Many Battles) in 5-star raids.\\n- Shadow Thundurus (Incarnate Forme) in weekend Shadow Raids.\\n\\nBonuses:\\n- Coordinate on Campfire for Shadow Raids!"
+  },
+  {
+    "title": "Raids: Zamazenta",
     "start": "2026-09-16 10:00",
-    "end": "2026-09-30 10:00",
-    "description": "Legendary Raids Update!\\n\\n- Zacian and Zamazenta return to 5-star raids with their shiny variants enabled.\\n- Exclusive debut of Shadow Incarnate Forme Thundurus during weekend Shadow Raids (Saturdays and Sundays only).\\n\\nMake sure to use Campfire to coordinate with your local community!"
+    "end": "2026-09-23 10:00",
+    "description": "Legendary Raids Update!\\n\\n- Zamazenta (Hero of Many Battles) in 5-star raids.\\n- Shadow Thundurus (Incarnate Forme) in weekend Shadow Raids."
   }
 ]
