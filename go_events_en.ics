@@ -7,7 +7,7 @@ X-WR-CALNAME:GO Events (EN)
 X-WR-TIMEZONE:America/Mexico_City
 BEGIN:VEVENT
 UID:go-event-84836773dacf59b076459df07644ee14@gocalendar.local
-DTSTAMP:20260901T062755Z
+DTSTAMP:20260901T062939Z
 DTSTART;TZID=America/Mexico_City:20260831T100000
 DTEND;TZID=America/Mexico_City:20260904T200000
 SUMMARY:Pokémon GO: Mega Ascension
@@ -19,8 +19,34 @@ DESCRIPTION:Reminder: Pokémon GO: Mega Ascension
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:go-event-9fd685a28ba87ffdb937245b1f31b861@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260901T180000
+DTEND;TZID=America/Mexico_City:20260901T190000
+SUMMARY:Pokémon GO: Spotlight Hour (Weedle, Kakuna, Beedrill)
+DESCRIPTION:Weekly Spotlight Hour.\n\n💀 Featured Pokémon:\n🔹 Weedle\n🔹 Kakuna\n🔹 Beedrill\n\n---\n🎁 Bonuses:\n✅ 2x Evolve XP\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Weedle, Kakuna, Beedrill)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-ce4785b0dc717097f2909fb2ef4cc5d5@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260902T180000
+DTEND;TZID=America/Mexico_City:20260902T190000
+SUMMARY:Pokémon GO: Raid Hour (Regi Trio)
+DESCRIPTION:Weekly Raid Hour.\n\n💀 Raid Bosses:\n🔹 Regirock\n🔹 Regice\n🔹 Registeel\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raid Hour (Regi Trio)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-event-ee83bb6f3949fda4fbab0a61f3d37920@gocalendar.local
-DTSTAMP:20260901T062755Z
+DTSTAMP:20260901T062939Z
 DTSTART;TZID=America/Mexico_City:20260905T100000
 DTEND;TZID=America/Mexico_City:20260906T180000
 SUMMARY:Pokémon GO: Pokémon GO Fest: Mega Finale
@@ -32,21 +58,47 @@ DESCRIPTION:Reminder: Pokémon GO: Pokémon GO Fest: Mega Finale
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-3598a158f56257911380b9a8d11e740b@gocalendar.local
-DTSTAMP:20260901T062755Z
-DTSTART;TZID=America/Mexico_City:20260919T140000
-DTEND;TZID=America/Mexico_City:20260919T170000
-SUMMARY:Pokémon GO: Super Mega Raid Day
-DESCRIPTION:Special Super Mega Raid Day!\n\n---\n🎁 Details to be officially announced.\n\n🔗 Source: LeekDuck.com
+UID:go-event-e5dfc333ee93e681052134773c4698c8@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260905T100000
+DTEND;TZID=America/Mexico_City:20260906T235900
+SUMMARY:Pokémon GO: 10th Anniversary Celebration
+DESCRIPTION:Celebrate Pokémon GO's 10th Anniversary with special Timed Research!\n\n💀 Features:\n🔹 Perfect Mewtwo Encounter\n🔹 10th Anniversary Pikachu Spawns\n\n---\n🎁 Bonuses:\n✅ 2x Catch XP\n✅ 1/2 Hatch Distance\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Super Mega Raid Day
+DESCRIPTION:Reminder: Pokémon GO: 10th Anniversary Celebration
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-3c883e953a74c8830835d2b9a63e6025@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260907T180000
+DTEND;TZID=America/Mexico_City:20260907T190000
+SUMMARY:Pokémon GO: Max Monday (Dynamax Rhyhorn)
+DESCRIPTION:Max Monday Event.\n\n💀 Max Battles:\n🔹 Dynamax Rhyhorn\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Max Monday (Dynamax Rhyhorn)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-08b67ea79e310aa93bc50f1f37379585@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260908T180000
+DTEND;TZID=America/Mexico_City:20260908T190000
+SUMMARY:Pokémon GO: Spotlight Hour (Houndour & Houndoom)
+DESCRIPTION:Weekly Spotlight Hour.\n\n💀 Featured Pokémon:\n🔹 Houndour\n🔹 Houndoom\n\n---\n🎁 Bonuses:\n✅ 2x Catch Stardust\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Houndour & Houndoom)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-b1576698938230b0017d6059b330987f@gocalendar.local
-DTSTAMP:20260901T062755Z
+DTSTAMP:20260901T062939Z
 DTSTART;TZID=America/Mexico_City:20260909T100000
 DTEND;TZID=America/Mexico_City:20260916T100000
 SUMMARY:Pokémon GO: Raids Zacian & Shadow Thundurus
@@ -58,8 +110,60 @@ DESCRIPTION:Reminder: Pokémon GO: Raids Zacian & Shadow Thundurus
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:go-event-2f6cc07d3e8bdebebfec2385b54bedf6@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260909T180000
+DTEND;TZID=America/Mexico_City:20260909T190000
+SUMMARY:Pokémon GO: Raid Hour (Zacian)
+DESCRIPTION:Weekly Raid Hour.\n\n💀 Raid Bosses:\n🔹 Zacian (Hero of Many Battles)\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raid Hour (Zacian)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-53238a2dcce642797b42c94003dd5c5c@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260912T140000
+DTEND;TZID=America/Mexico_City:20260912T170000
+SUMMARY:Pokémon GO: Gible Community Day Classic
+DESCRIPTION:Community Day Classic featuring Gible!\n\n💀 Featured Pokémon:\n🔹 Gible (Increased Shiny Odds)\n🔹 Evolve to Garchomp for Earth Power\n\n---\n🎁 Bonuses:\n✅ 1/4 Hatch Distance\n✅ 3-Hour Incense & Lures\n✅ Surprise Snapshots\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Gible Community Day Classic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-90b4a81b3f25f6dc4689c395b86694cc@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260914T180000
+DTEND;TZID=America/Mexico_City:20260914T190000
+SUMMARY:Pokémon GO: Max Monday (Galar Birds)
+DESCRIPTION:Max Monday Event.\n\n💀 Max Battles:\n🔹 Dynamax Articuno\n🔹 Dynamax Zapdos\n🔹 Dynamax Moltres\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Max Monday (Galar Birds)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-5998e66e3c0a9fba08faeb920ce43a5d@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260915T180000
+DTEND;TZID=America/Mexico_City:20260915T190000
+SUMMARY:Pokémon GO: Spotlight Hour (Mystery)
+DESCRIPTION:Weekly Spotlight Hour.\n\n💀 Featured Pokémon:\n🔹 Mystery Pokémon\n\n---\n🎁 Bonuses:\n✅ 2x Catch Candy\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Mystery)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-event-8bfebaf51180fba8950e12439c935586@gocalendar.local
-DTSTAMP:20260901T062755Z
+DTSTAMP:20260901T062939Z
 DTSTART;TZID=America/Mexico_City:20260916T100000
 DTEND;TZID=America/Mexico_City:20260923T100000
 SUMMARY:Pokémon GO: Raids Zamazenta
@@ -68,6 +172,84 @@ BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pokémon GO: Raids Zamazenta
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-0c44a6c0806bec85c0a7abf6343b38d3@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260916T180000
+DTEND;TZID=America/Mexico_City:20260916T190000
+SUMMARY:Pokémon GO: Raid Hour (Zamazenta)
+DESCRIPTION:Weekly Raid Hour.\n\n💀 Raid Bosses:\n🔹 Zamazenta (Hero of Many Battles)\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raid Hour (Zamazenta)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-3598a158f56257911380b9a8d11e740b@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260919T140000
+DTEND;TZID=America/Mexico_City:20260919T170000
+SUMMARY:Pokémon GO: Super Mega Raid Day
+DESCRIPTION:Special Super Mega Raid Day!\n\n---\n🎁 Details to be officially announced.\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Super Mega Raid Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-3024be3cbc533f78655b6eb2e0ce4f1e@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260920T100000
+DTEND;TZID=America/Mexico_City:20260920T200000
+SUMMARY:Pokémon GO: Phantump Catch Mastery
+DESCRIPTION:Catch Mastery Event.\n\n💀 Featured Pokémon:\n🔹 Phantump (Increased Shiny Odds)\n\n---\n🎁 Bonuses:\n✅ Increased XP for Excellent Throws\n✅ Timed Research available\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Phantump Catch Mastery
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-2788043ebcad58e9b15f960a02dde696@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260921T180000
+DTEND;TZID=America/Mexico_City:20260921T190000
+SUMMARY:Pokémon GO: Max Monday (Dynamax Sobble)
+DESCRIPTION:Max Monday Event.\n\n💀 Max Battles:\n🔹 Dynamax Sobble\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Max Monday (Dynamax Sobble)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-9bdf882622167476b97c4ae5f47c5fd7@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260922T180000
+DTEND;TZID=America/Mexico_City:20260922T190000
+SUMMARY:Pokémon GO: Spotlight Hour (Rattata)
+DESCRIPTION:Weekly Spotlight Hour.\n\n💀 Featured Pokémon:\n🔹 Rattata\n\n---\n🎁 Bonuses:\n✅ 2x Transfer Candy\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Rattata)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-09e5744f9863494a89c4c4126a67e002@gocalendar.local
+DTSTAMP:20260901T062939Z
+DTSTART;TZID=America/Mexico_City:20260923T180000
+DTEND;TZID=America/Mexico_City:20260923T190000
+SUMMARY:Pokémon GO: Raid Hour (Xerneas)
+DESCRIPTION:Weekly Raid Hour.\n\n💀 Raid Bosses:\n🔹 Xerneas\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raid Hour (Xerneas)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
