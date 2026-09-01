@@ -6,43 +6,68 @@ METHOD:PUBLISH
 X-WR-CALNAME:GO Events (ES)
 X-WR-TIMEZONE:America/Mexico_City
 BEGIN:VEVENT
-UID:go-event-es-0-roxy@gocalendar.local
-DTSTAMP:20260901T031403Z
+UID:go-event-32b8a07b9ccf738091e92b34384598e0@gocalendar.local
+DTSTAMP:20260901T035425Z
 DTSTART;TZID=America/Mexico_City:20260831T100000
 DTEND;TZID=America/Mexico_City:20260904T200000
 SUMMARY:Pokémon GO: Mega Ascensión
-DESCRIPTION:Semana de Mega Ascensión previa al evento Mega Finale.\n\nRotación Diaria de Megaincursiones:\n- Lun 31 Ago: Mega-Victreebel, Mega-Dragonite, Mega-Malamar\n- Mar 1 Sep: Mega-Falinks\n- Mié 2 Sep: Mega-Skarmory\n- Jue 3 Sep: Mega-Starmie\n- Vie 4 Sep: Mega-Raichu X, Mega-Raichu Y\n- Toda la semana: Mega-Latias, Mega-Latios\n\nBonus:\n- Límite de Pases de Incursión Remota aumentado a 30.\n- Fondos Especiales disponibles en Megaincursiones.
+DESCRIPTION:Semana de Mega Ascensión previa al evento Mega Finale.\n\n🗓️ Rotación Diaria de Megaincursiones:\n🔹 Lun 31 Ago: Mega-Victreebel, Mega-Dragonite, Mega-Malamar\n🔹 Mar 1 Sep: Mega-Falinks\n🔹 Mié 2 Sep: Mega-Skarmory\n🔹 Jue 3 Sep: Mega-Starmie\n🔹 Vie 4 Sep: Mega-Raichu X, Mega-Raichu Y\n🔹 Toda la semana: Mega-Latias, Mega-Latios\n\n---\n🎁 Bonus:\n✅ Límite de Pases Remotos: 30\n✅ Fondos Especiales en Megaincursiones\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Mega Ascensión
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-es-1-roxy@gocalendar.local
-DTSTAMP:20260901T031403Z
+UID:go-event-bd841cb00664c112ad9d3c9798d65523@gocalendar.local
+DTSTAMP:20260901T035425Z
 DTSTART;TZID=America/Mexico_City:20260905T100000
 DTEND;TZID=America/Mexico_City:20260906T180000
 SUMMARY:Pokémon GO Fest: Mega Finale
-DESCRIPTION:Evento Global. Incursiones principales: Mewtwo Acorazado, Mega-Mewtwo X e Y.\n\nBonus:\n- Incursiones remotas ilimitadas.\n- Fondos Especiales disponibles.
+DESCRIPTION:Evento Global.\n\n💀 Incursiones principales:\n🔹 Mewtwo Acorazado\n🔹 Mega-Mewtwo X\n🔹 Mega-Mewtwo Y\n\n---\n🎁 Bonus:\n✅ Incursiones remotas ilimitadas\n✅ Fondos Especiales disponibles\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO Fest: Mega Finale
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-es-2-roxy@gocalendar.local
-DTSTAMP:20260901T031403Z
+UID:go-event-1407112e22c2df5135caa1f5370aa984@gocalendar.local
+DTSTAMP:20260901T035425Z
 DTSTART;TZID=America/Mexico_City:20260919T140000
 DTEND;TZID=America/Mexico_City:20260919T170000
 SUMMARY:Día de Super Megaincursiones
-DESCRIPTION:¡Día especial de Incursiones Super Mega!\n\nDetalles por ser anunciados oficialmente, ¡pero espera aumento de Megaincursiones y bonus!
+DESCRIPTION:¡Día especial de Incursiones Super Mega!\n\n---\n🎁 Detalles oficiales por anunciarse.\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Día de Super Megaincursiones
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-es-3-roxy@gocalendar.local
-DTSTAMP:20260901T031403Z
+UID:go-event-e82d628423c46078663759db4cfdc4c5@gocalendar.local
+DTSTAMP:20260901T035425Z
 DTSTART;TZID=America/Mexico_City:20260909T100000
 DTEND;TZID=America/Mexico_City:20260916T100000
 SUMMARY:Incursiones: Zacian y Thundurus Oscuro
-DESCRIPTION:¡Actualización de Incursiones Legendarias!\n\n- Zacian (Héroe de Múltiples Batallas) en incursiones de 5 estrellas.\n- Thundurus Forma Encarnada Oscuro en incursiones oscuras de fin de semana.\n\nBonus:\n- ¡Coordina en Campfire para las Incursiones Oscuras!
+DESCRIPTION:¡Actualización de Incursiones Legendarias!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Zacian (Héroe de Múltiples Batallas)\n🔹 Oscuras (Fin de semana): Thundurus Forma Encarnada\n\n---\n🎁 Bonus:\n✅ ¡Coordina en Campfire para las Incursiones Oscuras locales!\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Incursiones: Zacian y Thundurus Oscuro
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-es-4-roxy@gocalendar.local
-DTSTAMP:20260901T031403Z
+UID:go-event-1f2b5e9b18b29e4b5f1124508dc8da43@gocalendar.local
+DTSTAMP:20260901T035425Z
 DTSTART;TZID=America/Mexico_City:20260916T100000
 DTEND;TZID=America/Mexico_City:20260923T100000
 SUMMARY:Incursiones: Zamazenta
-DESCRIPTION:¡Actualización de Incursiones Legendarias!\n\n- Zamazenta (Héroe de Múltiples Batallas) en incursiones de 5 estrellas.\n- Thundurus Forma Encarnada Oscuro en incursiones oscuras de fin de semana.
+DESCRIPTION:¡Actualización de Incursiones Legendarias!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Zamazenta (Héroe de Múltiples Batallas)\n🔹 Oscuras (Fin de semana): Thundurus Forma Encarnada\n\n---\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Incursiones: Zamazenta
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,29 @@
+name: Generate ICS Calendars
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'events_*.json'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Generate ICS files
+        run: node generate.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore(auto): generate updated .ics files"
+          file_pattern: "*.ics"
