@@ -29,9 +29,9 @@ configs.forEach(config => {
         icsContent += `SUMMARY:${event.title}\r\n`;
         icsContent += `DESCRIPTION:${event.description.replace(/\n/g, '\\n')}\r\n`;
         
-        // Add 15-minute push notification alarm
+        // Add push notification alarm EXACTLY at start time (0 minutes before)
         icsContent += `BEGIN:VALARM\r\n`;
-        icsContent += `TRIGGER:-PT15M\r\n`;
+        icsContent += `TRIGGER:-PT0M\r\n`;
         icsContent += `ACTION:DISPLAY\r\n`;
         icsContent += `DESCRIPTION:Reminder: ${event.title}\r\n`;
         icsContent += `END:VALARM\r\n`;

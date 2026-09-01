@@ -7,65 +7,65 @@ X-WR-CALNAME:GO Events (EN)
 X-WR-TIMEZONE:America/Mexico_City
 BEGIN:VEVENT
 UID:go-event-84836773dacf59b076459df07644ee14@gocalendar.local
-DTSTAMP:20260901T035425Z
+DTSTAMP:20260901T035530Z
 DTSTART;TZID=America/Mexico_City:20260831T100000
 DTEND;TZID=America/Mexico_City:20260904T200000
 SUMMARY:Pokémon GO: Mega Ascension
 DESCRIPTION:Mega Ascension week prior to the Mega Finale event.\n\n🗓️ Daily Mega Raid Rotation:\n🔹 Mon, Aug 31: Mega Victreebel, Mega Dragonite, Mega Malamar\n🔹 Tue, Sep 1: Mega Falinks\n🔹 Wed, Sep 2: Mega Skarmory\n🔹 Thu, Sep 3: Mega Starmie\n🔹 Fri, Sep 4: Mega Raichu X, Mega Raichu Y\n🔹 All Week: Mega Latias, Mega Latios\n\n---\n🎁 Bonuses:\n✅ Remote Raid Pass limit increased to 30\n✅ Special Backgrounds available for Mega Raids\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
-TRIGGER:-PT15M
+TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pokémon GO: Mega Ascension
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-bd841cb00664c112ad9d3c9798d65523@gocalendar.local
-DTSTAMP:20260901T035425Z
+DTSTAMP:20260901T035530Z
 DTSTART;TZID=America/Mexico_City:20260905T100000
 DTEND;TZID=America/Mexico_City:20260906T180000
 SUMMARY:Pokémon GO Fest: Mega Finale
 DESCRIPTION:Global Event.\n\n💀 Main Raids:\n🔹 Armored Mewtwo\n🔹 Mega Mewtwo X\n🔹 Mega Mewtwo Y\n\n---\n🎁 Bonuses:\n✅ Unlimited remote raids\n✅ Special Backgrounds available\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
-TRIGGER:-PT15M
+TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pokémon GO Fest: Mega Finale
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-11fa23a2347503389dc96be8c77f9e9c@gocalendar.local
-DTSTAMP:20260901T035425Z
+DTSTAMP:20260901T035530Z
 DTSTART;TZID=America/Mexico_City:20260919T140000
 DTEND;TZID=America/Mexico_City:20260919T170000
 SUMMARY:Super Mega Raid Day
 DESCRIPTION:Special Super Mega Raid Day!\n\n---\n🎁 Details to be officially announced.\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
-TRIGGER:-PT15M
+TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Super Mega Raid Day
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-c408ce2a1f4f1dc5aa442100c5fef057@gocalendar.local
-DTSTAMP:20260901T035425Z
+DTSTAMP:20260901T035530Z
 DTSTART;TZID=America/Mexico_City:20260909T100000
 DTEND;TZID=America/Mexico_City:20260916T100000
 SUMMARY:Raids: Zacian & Shadow Thundurus
 DESCRIPTION:Legendary Raids Update!\n\n💀 Raid Bosses:\n🔹 5-Star: Zacian (Hero of Many Battles)\n🔹 Shadow (Weekend): Shadow Thundurus (Incarnate)\n\n---\n🎁 Bonuses:\n✅ Coordinate on Campfire for Shadow Raids!\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
-TRIGGER:-PT15M
+TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Raids: Zacian & Shadow Thundurus
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-c752686ffad1828536e6b7ea8ee92647@gocalendar.local
-DTSTAMP:20260901T035425Z
+DTSTAMP:20260901T035530Z
 DTSTART;TZID=America/Mexico_City:20260916T100000
 DTEND;TZID=America/Mexico_City:20260923T100000
 SUMMARY:Raids: Zamazenta
 DESCRIPTION:Legendary Raids Update!\n\n💀 Raid Bosses:\n🔹 5-Star: Zamazenta (Hero of Many Battles)\n🔹 Shadow (Weekend): Shadow Thundurus (Incarnate)\n\n---\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
-TRIGGER:-PT15M
+TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Raids: Zamazenta
 END:VALARM
