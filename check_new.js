@@ -1,8 +1,8 @@
 const fs = require('fs');
 const https = require('https');
-const path = require('path');
+const { resolveFile } = require('./lib/resolveFile');
 
-const filePath = fs.existsSync('events_en.json') ? 'events_en.json' : path.join(__dirname, 'events_en.json');
+const filePath = resolveFile('events_en.json');
 const currentEvents = JSON.parse(fs.readFileSync(filePath, 'utf8')).map(e => e.title.toLowerCase());
 
 https.get('https://leekduck.com/events/', (res) => {

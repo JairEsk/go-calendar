@@ -25,10 +25,10 @@ jobs:
           node-version: '20'
 
       - name: Audit events data
-        run: node audit.js
+        run: npm run audit
 
       - name: Generate ICS files
-        run: node generate.js
+        run: npm run generate
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5

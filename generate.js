@@ -1,19 +1,21 @@
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
-
-const resolveFile = (filename) => {
-    if (fs.existsSync(filename)) return filename;
-    const local = path.join(__dirname, filename);
-    if (fs.existsSync(local)) return local;
-    return filename;
-};
+const { resolveFile } = require('./lib/resolveFile');
 
 const configs = [
     { inputFile: 'events_en.json', outputFile: 'go_events_en.ics', calName: 'GO Events (EN)', langCode: 'EN' },
-    { inputFile: 'events_es.json', outputFile: 'go_events_es.ics', calName: 'GO Events (ES)', langCode: 'ES' },
-    { inputFile: 'events_en.json', outputFile: 'go_events.ics', calName: 'GO Events', langCode: 'EN' }
+    { inputFile: 'events_es.json', outputFile: 'go_events_es.ics', calName: 'GO Events (ES)', langCode: 'ES' }
 ];
+
+const formatDate = (dateStr) => {
+    const match = dateStr.match(/^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2})$/);
+    if (!match) {
+        throw new Error(`Invalid date format: "${dateStr}". Expected "YYYY-MM-DD HH:mm".`);
+    }
+    const [, y, m, d, hh, mm] = match;
+    return `${y}${m}${d}T${hh}${mm}00`;
+};
 
 configs.forEach(config => {
     const inputPath = resolveFile(config.inputFile);
@@ -23,16 +25,6 @@ configs.forEach(config => {
     let icsContent = `BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Roxy AI//${config.langCode}\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:${config.calName}\r\nX-WR-TIMEZONE:America/Mexico_City\r\n`;
 
     events.forEach((event) => {
-        const formatDate = (dateStr) => {
-            const clean = dateStr.trim();
-            const match = clean.match(/^(\d{4})-(\d{2})-(\d{2})[T ](\d{2}):(\d{2})(?::(\d{2}))?/);
-            if (match) {
-                const [, y, m, d, hh, mm, ss] = match;
-                return `${y}${m}${d}T${hh}${mm}${ss || '00'}`;
-            }
-            return clean.replace(/[-:]/g, '').replace(' ', 'T') + '00';
-        };
-        
         // Fix UID: Hash based on title and start date (immune to array index changes)
         const hashInput = `${event.title}-${event.start}`;
         const eventHash = crypto.createHash('md5').update(hashInput).digest('hex');
