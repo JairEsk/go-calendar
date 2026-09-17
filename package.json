@@ -1,0 +1,21 @@
+{
+  "name": "go-calendar",
+  "version": "1.0.0",
+  "description": "Auto-updating Pokémon GO events calendar in iCalendar (.ics) format",
+  "main": "generate.js",
+  "scripts": {
+    "build": "node generate.js",
+    "generate": "node generate.js",
+    "audit": "node audit.js",
+    "test": "node audit.js"
+  },
+  "keywords": [
+    "pokemon-go",
+    "icalendar",
+    "ics",
+    "calendar",
+    "events"
+  ],
+  "author": "Jair Escamilla",
+  "license": "MIT"
+}
