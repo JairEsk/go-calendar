@@ -120,6 +120,12 @@
     "description": "¡Elige tu camino durante la temporada Senderos Crepusculares!\n\n💀 Novedades del Evento:\n🔹 Elige entre los caminos Explorar, Capturar o Combatir\n🔹 Tu camino determina tareas y recompensas de Investigación Temporal\n\n---\n🎁 Bonus:\n✅ Bonus específicos según el camino elegido\n\n🔗 Fuente: LeekDuck.com"
   },
   {
+    "title": "Pokémon GO: Incursiones Ultraentes y Mega Malamar",
+    "start": "2026-09-23 10:00",
+    "end": "2026-09-30 10:00",
+    "description": "¡Incursiones de Ultraentes y Megaincursiones destacadas!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Xurkitree, Pheromosa, Buzzwole\n🔹 Megaincursiones: Mega-Malamar\n\n---\n🎁 Bonus:\n✅ Honor Balls adicionales en combates de Gimnasio\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
     "title": "Pokémon GO: Hora Legendaria (Xurkitree, Pheromosa, Buzzwole)",
     "start": "2026-09-23 18:00",
     "end": "2026-09-23 19:00",
@@ -150,6 +156,12 @@
     "description": "¡Regresa el Festival de la Cosecha anual con Applin y deliciosas recompensas!\n\n💀 Novedades del Evento:\n🔹 Los Módulos Cebo Musgosos atraen manzanas (Ácidas, Dulces y Melosas)\n🔹 Apariciones: Applin, Smoliv, Skwovet, Lechonk, Cottonee con corona de flores\n🔹 Investigación Temporal ramificada\n\n---\n🎁 Bonus:\n✅ Mayor probabilidad de encontrar a Smoliv Variocolor\n✅ Módulos Cebo Musgosos duran 1 hora (Nivel 2)\n✅ Polvo Estelar extra al derrotar reclutas del Team GO Rocket (Nivel 3)\n\n🔗 Fuente: LeekDuck.com"
   },
   {
+    "title": "Pokémon GO: Incursiones Xerneas y Mega Victreebel",
+    "start": "2026-09-30 10:00",
+    "end": "2026-10-07 10:00",
+    "description": "¡Incursiones Legendarias y Megaincursiones destacadas!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Xerneas (Geocontrol)\n🔹 Megaincursiones: Mega-Victreebel\n\n---\n🎁 Bonus:\n✅ Honor Balls adicionales en combates de Gimnasio\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
     "title": "Pokémon GO: Hora Legendaria (Xerneas)",
     "start": "2026-09-30 18:00",
     "end": "2026-09-30 19:00",
@@ -160,6 +172,12 @@
     "start": "2026-09-30 18:00",
     "end": "2026-09-30 23:59",
     "description": "Colaboración especial en tiendas físicas LEGO.\n\n💀 Características:\n🔹 Poképaradas especiales en tiendas LEGO\n🔹 Investigación Temporal global\n\n---\n🎁 Bonus:\n✅ Artículos exclusivos para el avatar\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Hora Destacada (Seedot)",
+    "start": "2026-10-01 18:00",
+    "end": "2026-10-01 19:00",
+    "description": "¡Hora Destacada semanal con Seedot!\n\n💀 Pokémon Destacado:\n🔹 Seedot (Puede ser Variocolor)\n\n---\n🎁 Bonus:\n✅ 2x XP por captura\n\n🔗 Fuente: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Festival de la Cosecha - Invasión del Team GO Rocket",
@@ -180,10 +198,64 @@
     "description": "¡Día especial de Combates Max con Cinderace Gigamax!\n\n💀 Combates Max:\n🔹 Cinderace Gigamax\n\n---\n🎁 Bonus:\n✅ Mayor frecuencia de Combates Max\n✅ Bonus de evento y más Partículas Max\n\n🔗 Fuente: LeekDuck.com"
   },
   {
+    "title": "Pokémon GO: Lunes Max (Sizzlipede Dinamax)",
+    "start": "2026-10-05 18:00",
+    "end": "2026-10-05 19:00",
+    "description": "¡Evento Lunes Max con Sizzlipede Dinamax!\n\n💀 Combates Max:\n🔹 Sizzlipede Dinamax\n\n---\n🎁 Bonus:\n✅ Aumento de Partículas Max\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Incursiones Yveltal y Mega Blastoise",
+    "start": "2026-10-07 10:00",
+    "end": "2026-10-14 10:00",
+    "description": "¡Incursiones Legendarias y Megaincursiones destacadas!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Yveltal (Ala Mortífera)\n🔹 Megaincursiones: Mega-Blastoise\n\n---\n🎁 Bonus:\n✅ Honor Balls adicionales en combates de Gimnasio\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Hora Legendaria (Yveltal)",
+    "start": "2026-10-07 18:00",
+    "end": "2026-10-07 19:00",
+    "description": "¡Hora de Incursiones semanal con el Pokémon Legendario Yveltal!\n\n💀 Jefes de Incursión:\n🔹 Yveltal (Ala Mortífera)\n\n---\n🎁 Bonus:\n✅ Aumento de Incursiones Nivel 5\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Hora Destacada (Elgyem)",
+    "start": "2026-10-08 18:00",
+    "end": "2026-10-08 19:00",
+    "description": "¡Hora Destacada semanal con Elgyem!\n\n💀 Pokémon Destacado:\n🔹 Elgyem (Puede ser Variocolor)\n\n---\n🎁 Bonus:\n✅ 2x Caramelos por captura\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
     "title": "Pokémon GO: Día de la Comunidad (Zorua)",
     "start": "2026-10-10 14:00",
     "end": "2026-10-10 17:00",
     "description": "¡Día de la Comunidad de octubre con Zorua, el Pokémon Zorro Pillo!\n\n💀 Pokémon Destacado y Ataque:\n🔹 Zorua (Mayor probabilidad de Variocolor)\n🔹 Evoluciona a Zoroark para obtener el ataque rápido Golpe Bajo\n\n---\n🎁 Bonus:\n✅ 3x PX por captura\n✅ 2x Caramelos por captura\n✅ 2x Probabilidad de Caramelos XL (+31)\n✅ Inciensos de 3 horas y Módulos Cebo de 1 hora\n✅ 50% menos Polvo Estelar en intercambios y 1 intercambio especial adicional\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Lunes Max (Rookidee Dinamax)",
+    "start": "2026-10-12 18:00",
+    "end": "2026-10-12 19:00",
+    "description": "¡Evento Lunes Max con Rookidee Dinamax!\n\n💀 Combates Max:\n🔹 Rookidee Dinamax\n\n---\n🎁 Bonus:\n✅ Aumento de Partículas Max\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Maratón de Otoño - Travesía de Compañero",
+    "start": "2026-10-13 10:00",
+    "end": "2026-10-19 20:00",
+    "description": "¡Celebra la temporada otoñal junto a tu Pokémon compañero durante el Maratón de Otoño!\n\n💀 Novedades del Evento:\n🔹 Tareas y recompensas de exploración con compañero\n🔹 Apariciones salvajes temáticas\n🔹 Investigación Temporal especial\n\n---\n🎁 Bonus:\n✅ 1/2 Distancia caminando con compañero para ganar caramelos\n✅ Mayor probabilidad de recibir Recuerdos y Regalos de tu compañero\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Incursiones Dialga y Mega Dragonite",
+    "start": "2026-10-14 10:00",
+    "end": "2026-10-21 10:00",
+    "description": "¡Incursiones Legendarias y Megaincursiones destacadas!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Dialga\n🔹 Megaincursiones: Mega-Dragonite\n\n---\n🎁 Bonus:\n✅ Honor Balls adicionales en combates de Gimnasio\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Hora Legendaria (Dialga)",
+    "start": "2026-10-14 18:00",
+    "end": "2026-10-14 19:00",
+    "description": "¡Hora de Incursiones semanal con el Pokémon Legendario Dialga!\n\n💀 Jefes de Incursión:\n🔹 Dialga\n\n---\n🎁 Bonus:\n✅ Aumento de Incursiones Nivel 5\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Hora Destacada (Stufful)",
+    "start": "2026-10-15 18:00",
+    "end": "2026-10-15 19:00",
+    "description": "¡Hora Destacada semanal con Stufful!\n\n💀 Pokémon Destacado:\n🔹 Stufful (Puede ser Variocolor)\n\n---\n🎁 Bonus:\n✅ 2x Caramelos por transferencia\n\n🔗 Fuente: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Día de Eclosiones",
@@ -192,16 +264,76 @@
     "description": "¡Evento Día de Eclosiones de octubre!\n\n💀 Novedades del Evento:\n🔹 Pokémon destacado eclosionando de Huevos de 2 km\n🔹 Mayor probabilidad de Variocolor en Huevos del evento\n\n---\n🎁 Bonus:\n✅ 1/2 Distancia de eclosión\n✅ 2x Caramelos por eclosión\n✅ Mayor probabilidad de obtener Huevos de 2 km en Poképaradas\n\n🔗 Fuente: LeekDuck.com"
   },
   {
+    "title": "Pokémon GO: Lunes Max (Sneasel Dinamax)",
+    "start": "2026-10-19 18:00",
+    "end": "2026-10-19 19:00",
+    "description": "¡Evento Lunes Max con Sneasel Dinamax!\n\n💀 Combates Max:\n🔹 Sneasel Dinamax\n\n---\n🎁 Bonus:\n✅ Aumento de Partículas Max\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Incursiones Palkia y Mega Charizard",
+    "start": "2026-10-21 10:00",
+    "end": "2026-10-28 10:00",
+    "description": "¡Incursiones Legendarias y Megaincursiones destacadas!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Palkia\n🔹 Megaincursiones: Mega-Charizard X y Mega-Charizard Y\n\n---\n🎁 Bonus:\n✅ Honor Balls adicionales en combates de Gimnasio\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Hora Legendaria (Palkia)",
+    "start": "2026-10-21 18:00",
+    "end": "2026-10-21 19:00",
+    "description": "¡Hora de Incursiones semanal con el Pokémon Legendario Palkia!\n\n💀 Jefes de Incursión:\n🔹 Palkia\n\n---\n🎁 Bonus:\n✅ Aumento de Incursiones Nivel 5\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Hora Destacada (Morelull)",
+    "start": "2026-10-22 18:00",
+    "end": "2026-10-22 19:00",
+    "description": "¡Hora Destacada semanal con Morelull!\n\n💀 Pokémon Destacado:\n🔹 Morelull (Puede ser Variocolor)\n\n---\n🎁 Bonus:\n✅ 2x Polvo Estelar por captura\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
     "title": "Pokémon GO: Día de Combates Max",
     "start": "2026-10-24 14:00",
     "end": "2026-10-24 17:00",
     "description": "¡Día de Combates Max con poderosos Pokémon Dinamax!\n\n💀 Combates Max:\n🔹 Pokémon Dinamax destacados en Puntos Energéticos\n\n---\n🎁 Bonus:\n✅ Mayor recolección de Partículas Max en Puntos Energéticos\n✅ Investigación Temporal del evento\n\n🔗 Fuente: LeekDuck.com"
   },
   {
+    "title": "Pokémon GO: Lunes Max (Sableye Dinamax)",
+    "start": "2026-10-26 18:00",
+    "end": "2026-10-26 19:00",
+    "description": "¡Evento Lunes Max con Sableye Dinamax!\n\n💀 Combates Max:\n🔹 Sableye Dinamax\n\n---\n🎁 Bonus:\n✅ Aumento de Partículas Max\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Halloween 2026 Parte I",
+    "start": "2026-10-27 10:00",
+    "end": "2026-10-31 20:00",
+    "description": "¡La celebración anual de Halloween comienza con Pokémon de tipo Fantasma y siniestras sorpresas!\n\n💀 Novedades del Evento:\n🔹 Apariciones salvajes de tipo Fantasma y Siniestro\n🔹 Encuentros con Pokémon disfrazados\n🔹 Investigación Temporal espeluznante y encuentros con Spiritomb\n🔹 Fondo y música especial de Halloween\n\n---\n🎁 Bonus:\n✅ 2x Caramelos por captura\n✅ 2x Caramelos por transferencia\n✅ Caramelos XL adicionales al capturar Pokémon disfrazados\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Incursiones Giratina (Forma Origen) y Mega Sableye",
+    "start": "2026-10-28 10:00",
+    "end": "2026-11-04 10:00",
+    "description": "¡Incursiones Legendarias y Megaincursiones para la temporada de Halloween!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Giratina (Forma Origen) (Golpe Umbrío)\n🔹 Megaincursiones: Mega-Sableye\n\n---\n🎁 Bonus:\n✅ Honor Balls adicionales en combates de Gimnasio\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Hora Legendaria (Giratina Forma Origen)",
+    "start": "2026-10-28 18:00",
+    "end": "2026-10-28 19:00",
+    "description": "¡Hora de Incursiones semanal con Giratina (Forma Origen)!\n\n💀 Jefes de Incursión:\n🔹 Giratina (Forma Origen) (Golpe Umbrío)\n\n---\n🎁 Bonus:\n✅ Aumento de Incursiones Nivel 5\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Hora Destacada (Gastly)",
+    "start": "2026-10-29 18:00",
+    "end": "2026-10-29 19:00",
+    "description": "¡Hora Destacada semanal con Gastly!\n\n💀 Pokémon Destacado:\n🔹 Gastly (Puede ser Variocolor)\n\n---\n🎁 Bonus:\n✅ 2x XP por evolucionar\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
     "title": "Pokémon GO: Día de Super Megaincursiones",
     "start": "2026-10-31 14:00",
     "end": "2026-10-31 17:00",
     "description": "¡Día especial de Incursiones Super Mega de Halloween!\n\n💀 Jefe Destacado:\n🔹 Jefe de Incursión Super Mega (Por anunciar)\n\n---\n🎁 Bonus:\n✅ Hasta 5 pases de incursión gratuitos adicionales en Gimnasios\n✅ Límite aumentado de pases de incursión remota\n✅ Mayor probabilidad de Variocolor para el jefe destacado\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Halloween 2026 Parte II",
+    "start": "2026-11-01 10:00",
+    "end": "2026-11-05 20:00",
+    "description": "¡La fiesta de Halloween continúa a principios de noviembre con la segunda parte!\n\n💀 Novedades del Evento:\n🔹 Más Pokémon con disfraz y apariciones salvajes de tipo Fantasma\n🔹 Recompensas de la Investigación Temporal Parte II\n🔹 Exhibiciones especiales en Poképaradas\n\n---\n🎁 Bonus:\n✅ 2x Caramelos por captura\n✅ 2x Caramelos por eclosión\n✅ Mayor probabilidad de Caramelos XL al atrapar Pokémon disfrazados\n\n🔗 Fuente: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Área Silvestre 2026 - CDMX",
