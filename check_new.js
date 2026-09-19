@@ -1,7 +1,9 @@
 const fs = require('fs');
 const https = require('https');
+const { resolveFile } = require('./lib/resolveFile');
 
-const currentEvents = JSON.parse(fs.readFileSync('GoCalendar/events_en.json', 'utf8')).map(e => e.title.toLowerCase());
+const filePath = resolveFile('events_en.json');
+const currentEvents = JSON.parse(fs.readFileSync(filePath, 'utf8')).map(e => e.title.toLowerCase());
 
 https.get('https://leekduck.com/events/', (res) => {
   let data = '';

@@ -7,7 +7,7 @@ X-WR-CALNAME:GO Events (EN)
 X-WR-TIMEZONE:America/Mexico_City
 BEGIN:VEVENT
 UID:go-event-84836773dacf59b076459df07644ee14@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260831T100000
 DTEND;TZID=America/Mexico_City:20260904T200000
 SUMMARY:Pokémon GO: Mega Ascension
@@ -20,7 +20,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-9fd685a28ba87ffdb937245b1f31b861@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260901T180000
 DTEND;TZID=America/Mexico_City:20260901T190000
 SUMMARY:Pokémon GO: Spotlight Hour (Weedle, Kakuna, Beedrill)
@@ -33,7 +33,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-ce4785b0dc717097f2909fb2ef4cc5d5@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260902T180000
 DTEND;TZID=America/Mexico_City:20260902T190000
 SUMMARY:Pokémon GO: Raid Hour (Regi Trio)
@@ -46,11 +46,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-ee83bb6f3949fda4fbab0a61f3d37920@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260905T100000
 DTEND;TZID=America/Mexico_City:20260906T180000
 SUMMARY:Pokémon GO: Pokémon GO Fest: Mega Finale
-DESCRIPTION:Global Event.\n\n💀 Main Raids:\n🔹 Armored Mewtwo\n🔹 Mega Mewtwo X\n🔹 Mega Mewtwo Y\n\n---\n🎁 Bonuses:\n✅ Unlimited remote raids\n✅ Special Backgrounds available\n\n🔗 Source: LeekDuck.com
+DESCRIPTION:The climactic Mega Finale event of Pokémon GO Fest!\n\n💀 Featured Mega Raids:\n🔹 Mega Rayquaza\n🔹 Mega Mewtwo X & Mega Mewtwo Y\n🔹 Primal Kyogre & Primal Groudon\n\n---\n🎁 Bonuses:\n✅ Up to 18 free Raid Passes across the weekend\n✅ Increased Shiny encounters\n✅ Special Research & Global Challenges\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-e5dfc333ee93e681052134773c4698c8@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260905T100000
 DTEND;TZID=America/Mexico_City:20260906T235900
 SUMMARY:Pokémon GO: 10th Anniversary Celebration
@@ -72,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-3c883e953a74c8830835d2b9a63e6025@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260907T180000
 DTEND;TZID=America/Mexico_City:20260907T190000
 SUMMARY:Pokémon GO: Max Monday (Dynamax Rhyhorn)
@@ -85,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-e5294bb5f3450e3da8279215b0307ce0@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260908T100000
 DTEND;TZID=America/Mexico_City:20260914T200000
 SUMMARY:Pokémon GO: Mega Squads
@@ -98,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-08b67ea79e310aa93bc50f1f37379585@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260908T180000
 DTEND;TZID=America/Mexico_City:20260908T190000
 SUMMARY:Pokémon GO: Spotlight Hour (Houndour & Houndoom)
@@ -111,11 +111,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-b1576698938230b0017d6059b330987f@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260909T100000
 DTEND;TZID=America/Mexico_City:20260916T100000
 SUMMARY:Pokémon GO: Raids Zacian & Shadow Thundurus
-DESCRIPTION:Legendary Raids Update!\n\n💀 Raid Bosses:\n🔹 5-Star: Zacian (Hero of Many Battles)\n🔹 Shadow (Weekend): Shadow Thundurus (Incarnate)\n\n---\n🎁 Bonuses:\n✅ Coordinate on Campfire for Shadow Raids!\n\n🔗 Source: LeekDuck.com
+DESCRIPTION:Featured Legendary and Shadow Raids!\n\n💀 Raid Bosses:\n🔹 5-Star: Zacian (Hero of Many Battles)\n🔹 Shadow 5-Star: Shadow Thundurus\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
@@ -124,7 +124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-2f6cc07d3e8bdebebfec2385b54bedf6@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260909T180000
 DTEND;TZID=America/Mexico_City:20260909T190000
 SUMMARY:Pokémon GO: Raid Hour (Zacian)
@@ -137,7 +137,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-53238a2dcce642797b42c94003dd5c5c@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260912T140000
 DTEND;TZID=America/Mexico_City:20260912T170000
 SUMMARY:Pokémon GO: Gible Community Day Classic
@@ -150,7 +150,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-90b4a81b3f25f6dc4689c395b86694cc@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260914T180000
 DTEND;TZID=America/Mexico_City:20260914T190000
 SUMMARY:Pokémon GO: Max Monday (Galar Birds)
@@ -162,21 +162,8 @@ DESCRIPTION:Reminder: Pokémon GO: Max Monday (Galar Birds)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-a01b3c8f266ae2619f6734c63e4fc535@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20260914T18000000
-DTEND;TZID=America/Mexico_City:20260914T19000000
-SUMMARY:Pokémon GO: Max Monday - Dynamax Rhyhorn
-DESCRIPTION:Max Monday featuring Dynamax Rhyhorn in Max Battles!\n\n🗓️ **Date:** September 14, 2026\n⏰ **Time:** 6:00 PM - 7:00 PM local time\n\n---\n🔗 Source: LeekDuck.com
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Max Monday - Dynamax Rhyhorn
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-event-5998e66e3c0a9fba08faeb920ce43a5d@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260915T180000
 DTEND;TZID=America/Mexico_City:20260915T190000
 SUMMARY:Pokémon GO: Spotlight Hour (Mystery)
@@ -188,21 +175,21 @@ DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Mystery)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-8bfebaf51180fba8950e12439c935586@gocalendar.local
-DTSTAMP:20260914T031501Z
+UID:go-event-621b99f8c1e0ae661981dd620c888d9c@gocalendar.local
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260916T100000
 DTEND;TZID=America/Mexico_City:20260923T100000
-SUMMARY:Pokémon GO: Raids Zamazenta
-DESCRIPTION:Legendary Raids Update!\n\n💀 Raid Bosses:\n🔹 5-Star: Zamazenta (Hero of Many Battles)\n🔹 Shadow (Weekend): Shadow Thundurus (Incarnate)\n\n---\n🎁 Bonuses:\n✅ N/A\n\n🔗 Source: LeekDuck.com
+SUMMARY:Pokémon GO: Raids Zamazenta & Mega Venusaur
+DESCRIPTION:Featured Legendary and Mega Raids!\n\n💀 Raid Bosses:\n🔹 5-Star: Zamazenta (Hero of Many Battles)\n🔹 Mega Raids: Mega Venusaur\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Raids Zamazenta
+DESCRIPTION:Reminder: Pokémon GO: Raids Zamazenta & Mega Venusaur
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-7a1e93f2ab57789bc9a5544879a40ee8@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260916T100000
 DTEND;TZID=America/Mexico_City:20260922T200000
 SUMMARY:Pokémon GO: Pokémon Horizons Celebration
@@ -215,7 +202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-0c44a6c0806bec85c0a7abf6343b38d3@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260916T180000
 DTEND;TZID=America/Mexico_City:20260916T190000
 SUMMARY:Pokémon GO: Raid Hour (Zamazenta)
@@ -227,38 +214,25 @@ DESCRIPTION:Reminder: Pokémon GO: Raid Hour (Zamazenta)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-457b1aae848e581aa344551b517574c2@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20260916T18000000
-DTEND;TZID=America/Mexico_City:20260916T19000000
-SUMMARY:Pokémon GO: Zamazenta (Hero of Many Battles) Raid Hour
-DESCRIPTION:Raid Hour featuring Zamazenta (Hero of Many Battles) in 5-star raids!\n\n🗓️ **Date:** September 16, 2026\n⏰ **Time:** 6:00 PM - 7:00 PM local time\n\n---\n🔗 Source: LeekDuck.com
+UID:go-event-3e90c0def635c139ad9ec9c9e58eb7a2@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20260917T180000
+DTEND;TZID=America/Mexico_City:20260917T190000
+SUMMARY:Pokémon GO: Spotlight Hour (Charmander wearing Friede's goggles)
+DESCRIPTION:Weekly Spotlight Hour featuring Charmander wearing Friede's goggles!\n\n💀 Featured Pokémon:\n🔹 Charmander wearing Friede's goggles (Shiny available)\n\n---\n🎁 Bonuses:\n✅ 2x Catch Stardust\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Zamazenta (Hero of Many Battles) Raid Hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-event-c74bf3c7b095dd538026b2db4262af07@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20260917T18000000
-DTEND;TZID=America/Mexico_City:20260917T19000000
-SUMMARY:Pokémon GO: Charmander wearing Friede's goggles Spotlight Hour
-DESCRIPTION:Spotlight Hour featuring Charmander wearing Friede's goggles!\n\n🗓️ **Date:** September 17, 2026\n⏰ **Time:** 6:00 PM - 7:00 PM local time\n\n---\n🔗 Source: LeekDuck.com
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Charmander wearing Friede's goggles Spotlight Hour
+DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Charmander wearing Friede's goggles)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-2e06be3c1820f279fd8fe3ad15becc4e@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260919T140000
 DTEND;TZID=America/Mexico_City:20260919T170000
 SUMMARY:Pokémon GO: Staraptor Super Mega Raid Day
-DESCRIPTION:Staraptor Super Mega Raid Day!\n\n💀 Featured Boss:\n🔹 Mega Staraptor\n\n---\n🎁 Details to be officially announced.\n\n🔗 Source: LeekDuck.com
+DESCRIPTION:Special Super Mega Raid Day featuring Mega Staraptor!\n\n💀 Featured Raid Boss:\n🔹 Mega Staraptor\n\n---\n🎁 Bonuses:\n✅ Up to 6 free Raid Passes from spinning Gyms\n✅ Increased Remote Raid Pass limit to 20\n✅ Increased chance of encountering Shiny Staraptor\n✅ Caught Staraptor will have Mega Level 1 unlocked\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
@@ -266,51 +240,64 @@ DESCRIPTION:Reminder: Pokémon GO: Staraptor Super Mega Raid Day
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-3024be3cbc533f78655b6eb2e0ce4f1e@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20260920T100000
-DTEND;TZID=America/Mexico_City:20260920T200000
-SUMMARY:Pokémon GO: Phantump Catch Mastery
-DESCRIPTION:Catch Mastery Event.\n\n💀 Featured Pokémon:\n🔹 Phantump (Increased Shiny Odds)\n\n---\n🎁 Bonuses:\n✅ Increased XP for Excellent Throws\n✅ Timed Research available\n\n🔗 Source: LeekDuck.com
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Phantump Catch Mastery
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-event-2788043ebcad58e9b15f960a02dde696@gocalendar.local
-DTSTAMP:20260914T031501Z
+UID:go-event-aa59a2c8462f9d8e746312565025bdae@gocalendar.local
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260921T180000
 DTEND;TZID=America/Mexico_City:20260921T190000
-SUMMARY:Pokémon GO: Max Monday (Dynamax Sobble)
-DESCRIPTION:Max Monday Event.\n\n💀 Max Battles:\n🔹 Dynamax Sobble\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com
+SUMMARY:Pokémon GO: Max Monday (Dynamax Legendary Birds)
+DESCRIPTION:Max Monday featuring the Kanto Legendary Birds in Max Battles!\n\n💀 Max Battles:\n🔹 Dynamax Articuno\n🔹 Dynamax Zapdos\n🔹 Dynamax Moltres\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Max Monday (Dynamax Sobble)
+DESCRIPTION:Reminder: Pokémon GO: Max Monday (Dynamax Legendary Birds)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-e3ad46e789de08962aaede92d8866e8a@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20260921T18000000
-DTEND;TZID=America/Mexico_City:20260921T19000000
-SUMMARY:Pokémon GO: Max Monday - Dynamax Articuno, Zapdos, and Moltres
-DESCRIPTION:Max Monday featuring Dynamax Articuno, Zapdos, and Moltres in Max Battles!\n\n🗓️ **Date:** September 21, 2026\n⏰ **Time:** 6:00 PM - 7:00 PM local time\n\n---\n🔗 Source: LeekDuck.com
+UID:go-event-1230bf151e82ffe28a9752f5d63787d5@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20260923T100000
+DTEND;TZID=America/Mexico_City:20260928T200000
+SUMMARY:Pokémon GO: Choose Your Path - Twilight Trails
+DESCRIPTION:Choose your path during the Twilight Trails season!\n\n💀 Event Features:\n🔹 Choose between Explore, Catch, or Battle paths\n🔹 Path determines unique Timed Research tasks & rewards\n\n---\n🎁 Bonuses:\n✅ Event-specific bonuses based on chosen path\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Max Monday - Dynamax Articuno, Zapdos, and Moltres
+DESCRIPTION:Reminder: Pokémon GO: Choose Your Path - Twilight Trails
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-9bdf882622167476b97c4ae5f47c5fd7@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20260922T180000
-DTEND;TZID=America/Mexico_City:20260922T190000
+UID:go-event-ca3284b5ab9821c7c4a5b21cf4e640b8@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20260923T100000
+DTEND;TZID=America/Mexico_City:20260930T100000
+SUMMARY:Pokémon GO: Raids Ultra Beasts & Mega Malamar
+DESCRIPTION:Featured Ultra Beast and Mega Raids!\n\n💀 Raid Bosses:\n🔹 5-Star: Xurkitree, Pheromosa, Buzzwole\n🔹 Mega Raids: Mega Malamar\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raids Ultra Beasts & Mega Malamar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-bc421bd7778736e823c3ee7e83b6643a@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20260923T180000
+DTEND;TZID=America/Mexico_City:20260923T190000
+SUMMARY:Pokémon GO: Raid Hour (Xurkitree, Pheromosa, Buzzwole)
+DESCRIPTION:Weekly Raid Hour featuring Ultra Beasts!\n\n💀 Raid Bosses:\n🔹 Xurkitree\n🔹 Pheromosa\n🔹 Buzzwole\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raid Hour (Xurkitree, Pheromosa, Buzzwole)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-db31c471932e43bdaa3863c1afcbd5fc@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20260924T180000
+DTEND;TZID=America/Mexico_City:20260924T190000
 SUMMARY:Pokémon GO: Spotlight Hour (Rattata)
-DESCRIPTION:Weekly Spotlight Hour.\n\n💀 Featured Pokémon:\n🔹 Rattata\n\n---\n🎁 Bonuses:\n✅ 2x Transfer Candy\n\n🔗 Source: LeekDuck.com
+DESCRIPTION:Weekly Spotlight Hour featuring Rattata!\n\n💀 Featured Pokémon:\n🔹 Rattata\n\n---\n🎁 Bonuses:\n✅ 2x Transfer Candy\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
@@ -318,12 +305,64 @@ DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Rattata)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-09e5744f9863494a89c4c4126a67e002@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20260923T180000
-DTEND;TZID=America/Mexico_City:20260923T190000
+UID:go-event-c27abec048f1f4b961dd45d9161de83a@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20260926T100000
+DTEND;TZID=America/Mexico_City:20260926T200000
+SUMMARY:Pokémon GO: Phantump Catch Mastery
+DESCRIPTION:Catch Mastery Event featuring Phantump!\n\n💀 Featured Pokémon:\n🔹 Phantump (Increased Shiny Odds)\n\n---\n🎁 Bonuses:\n✅ Increased XP for Nice, Great, and Excellent Throws\n✅ Event Timed Research available\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Phantump Catch Mastery
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-d02335fb805399c0083dc631ef1d6864@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20260928T180000
+DTEND;TZID=America/Mexico_City:20260928T190000
+SUMMARY:Pokémon GO: Max Monday (Dynamax Sobble)
+DESCRIPTION:Max Monday Event featuring Dynamax Sobble!\n\n💀 Max Battles:\n🔹 Dynamax Sobble\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Max Monday (Dynamax Sobble)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-ee6a2fe69cc2643c3d0410e2ee39827f@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20260929T100000
+DTEND;TZID=America/Mexico_City:20261005T200000
+SUMMARY:Pokémon GO: Harvest Festival 2026 - Applin Picking
+DESCRIPTION:The annual Harvest Festival returns with Applin and sweet rewards!\n\n💀 Event Features:\n🔹 Mossy Lure Modules attract apples (Tart, Sweet, Syrupy Apples)\n🔹 Spawns: Applin, Smoliv, Skwovet, Lechonk, Flower Crown Cottonee\n🔹 Branching Timed Research\n\n---\n🎁 Bonuses:\n✅ Increased chance to encounter Shiny Smoliv\n✅ 1-Hour Mossy Lure Modules (Tier 2)\n✅ Stardust bonus from defeating Team GO Rocket (Tier 3)\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Harvest Festival 2026 - Applin Picking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-aca357ce65e7bdd190175ac8fe00db0d@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20260930T100000
+DTEND;TZID=America/Mexico_City:20261007T100000
+SUMMARY:Pokémon GO: Raids Xerneas & Mega Victreebel
+DESCRIPTION:Featured Legendary and Mega Raids!\n\n💀 Raid Bosses:\n🔹 5-Star: Xerneas (Geomancy)\n🔹 Mega Raids: Mega Victreebel\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raids Xerneas & Mega Victreebel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-32fac9ab2e195fd9deed17f35b5e5d01@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20260930T180000
+DTEND;TZID=America/Mexico_City:20260930T190000
 SUMMARY:Pokémon GO: Raid Hour (Xerneas)
-DESCRIPTION:Weekly Raid Hour.\n\n💀 Raid Bosses:\n🔹 Xerneas\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com
+DESCRIPTION:Weekly Raid Hour featuring Legendary Pokémon Xerneas!\n\n💀 Raid Bosses:\n🔹 Xerneas (Geomancy)\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
@@ -331,47 +370,8 @@ DESCRIPTION:Reminder: Pokémon GO: Raid Hour (Xerneas)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-9b34a64722c9b5ea2780975a49b1c55e@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20260923T18000000
-DTEND;TZID=America/Mexico_City:20260923T19000000
-SUMMARY:Pokémon GO: Xurkitree, Pheromosa, and Buzzwole Raid Hour
-DESCRIPTION:Raid Hour featuring Xurkitree, Pheromosa, and Buzzwole in 5-star raids!\n\n🗓️ **Date:** September 23, 2026\n⏰ **Time:** 6:00 PM - 7:00 PM local time\n\n---\n🔗 Source: LeekDuck.com
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Xurkitree, Pheromosa, and Buzzwole Raid Hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-event-b7eb57d9e93c161d077357f595f08675@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20260924T18000000
-DTEND;TZID=America/Mexico_City:20260924T19000000
-SUMMARY:Pokémon GO: Rattata Spotlight Hour
-DESCRIPTION:Spotlight Hour featuring Rattata!\n\n🗓️ **Date:** September 24, 2026\n⏰ **Time:** 6:00 PM - 7:00 PM local time\n\n---\n🔗 Source: LeekDuck.com
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Rattata Spotlight Hour
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-event-acd17bbda1b4f7834848224191449ea7@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20260928T18000000
-DTEND;TZID=America/Mexico_City:20260928T19000000
-SUMMARY:Pokémon GO: Max Monday - Dynamax Sobble
-DESCRIPTION:Max Monday featuring Dynamax Sobble in Max Battles!\n\n🗓️ **Date:** September 28, 2026\n⏰ **Time:** 6:00 PM - 7:00 PM local time\n\n---\n🔗 Source: LeekDuck.com
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Max Monday - Dynamax Sobble
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-event-df8f87738a67c19c6d9fa7acfa8fdca4@gocalendar.local
-DTSTAMP:20260914T031501Z
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20260930T180000
 DTEND;TZID=America/Mexico_City:20260930T235900
 SUMMARY:Pokémon GO: LEGO Stores & Pokémon GO
@@ -383,25 +383,38 @@ DESCRIPTION:Reminder: Pokémon GO: LEGO Stores & Pokémon GO
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-94bb0cf24ac58afdb944eb990f92ed3f@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20260930T18000000
-DTEND;TZID=America/Mexico_City:20260930T19000000
-SUMMARY:Pokémon GO: Xerneas Raid Hour
-DESCRIPTION:Raid Hour featuring Xerneas in 5-star raids!\n\n🗓️ **Date:** September 30, 2026\n⏰ **Time:** 6:00 PM - 7:00 PM local time\n\n---\n🔗 Source: LeekDuck.com
+UID:go-event-f18f35f8688b226b01d2d3eb836da943@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261001T180000
+DTEND;TZID=America/Mexico_City:20261001T190000
+SUMMARY:Pokémon GO: Spotlight Hour (Seedot)
+DESCRIPTION:Weekly Spotlight Hour featuring Seedot!\n\n💀 Featured Pokémon:\n🔹 Seedot (Shiny available)\n\n---\n🎁 Bonuses:\n✅ 2x Catch XP\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Xerneas Raid Hour
+DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Seedot)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-8f7591a8fa6d86c6ce003c4b4dca9293@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20261002T10000000
-DTEND;TZID=America/Mexico_City:20261002T20000000
+UID:go-event-56eeaf25bcce61c885ca9bf33a50e93a@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261002T000000
+DTEND;TZID=America/Mexico_City:20261005T200000
+SUMMARY:Pokémon GO: Harvest Festival - Taken Over
+DESCRIPTION:Team GO Rocket takeover event during the Harvest Festival!\n\n💀 Event Features:\n🔹 Rescue Shadow Zekrom from Giovanni via Super Rocket Radar\n🔹 New Shadow Pokémon: Wimpod, Fomantis, Sandygast\n🔹 Wild Spawns: Koffing, Slugma, Numel, Magmar\n\n---\n🎁 Bonuses:\n✅ Use Charged TM to forget Frustration\n✅ Increased chance of Shiny Slugma\n✅ More Team GO Rocket balloons and PokéStops\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Harvest Festival - Taken Over
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-42df147399edc3925a85672c802e366c@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261002T100000
+DTEND;TZID=America/Mexico_City:20261002T200000
 SUMMARY:Pokémon GO: Patterns of the Wild
-DESCRIPTION:Patterns of the Wild event!\n\n🗓️ **Date:** October 2, 2026\n⏰ **Time:** 10:00 AM - 8:00 PM local time\n\n---\n🔗 Source: LeekDuck.com
+DESCRIPTION:Patterns of the Wild event featuring Batik Shirt Pikachu!\n\n💀 Features & Spawns:\n🔹 Debut: Batik Shirt Pikachu with Special Background\n🔹 Spawns: Caterpie, Oddish, Gloom, Bellsprout, Hoppip\n🔹 Timed Research and Collection Challenge\n\n---\n🎁 Bonuses:\n✅ 2-Hour Incense duration\n✅ Increased chance to encounter Shiny featured Pokémon\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
@@ -409,25 +422,12 @@ DESCRIPTION:Reminder: Pokémon GO: Patterns of the Wild
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-a7885fab30dc6949c402dfb00fcf78a0@gocalendar.local
-DTSTAMP:20260914T031501Z
+UID:go-event-0a2a6e3c506d79a8dbd59ee4c4abc737@gocalendar.local
+DTSTAMP:20260919T051514Z
 DTSTART;TZID=America/Mexico_City:20261003T140000
-DTEND;TZID=America/Mexico_City:20261005T200000
-SUMMARY:Pokémon GO: Harvest Festival
-DESCRIPTION:The annual Harvest Festival returns!\n\n💀 Features:\n🔹 Increased Grass-type Spawns\n🔹 Shiny Smoliv Debut (Rumored)\n\n---\n🎁 Bonuses:\n✅ 2x Catch Candy\n✅ Extended Lure duration\n\n🔗 Source: LeekDuck.com
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Harvest Festival
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-event-60247a0b5f35821bc4bca4dfce0a73d3@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20261003T14000000
-DTEND;TZID=America/Mexico_City:20261003T17000000
+DTEND;TZID=America/Mexico_City:20261003T170000
 SUMMARY:Pokémon GO: Gigantamax Cinderace Max Battle Day
-DESCRIPTION:Gigantamax Cinderace debuts in Pokémon GO during this special Max Battle Day event!\n\n🗓️ **Date:** October 3, 2026\n⏰ **Time:** 2:00 PM - 5:00 PM local time\n\n💀 **Max Battles:**\n🔹 Gigantamax Cinderace (Can be Shiny!)\n\n---\n🔗 Source: LeekDuck.com
+DESCRIPTION:Special Max Battle Day featuring Gigantamax Cinderace!\n\n💀 Max Battles:\n🔹 Gigantamax Cinderace\n\n---\n🎁 Bonuses:\n✅ Increased Max Battle encounters\n✅ Event bonuses and extra Max Particles\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
@@ -435,16 +435,354 @@ DESCRIPTION:Reminder: Pokémon GO: Gigantamax Cinderace Max Battle Day
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-1e1da19990fa4e1480791c50a345839c@gocalendar.local
-DTSTAMP:20260914T031501Z
-DTSTART;TZID=America/Mexico_City:20261106T100000060000
-DTEND;TZID=America/Mexico_City:20261108T180000060000
+UID:go-event-0b5d8a2cd181ee3241c8a5b7249647bc@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261005T180000
+DTEND;TZID=America/Mexico_City:20261005T190000
+SUMMARY:Pokémon GO: Max Monday (Dynamax Sizzlipede)
+DESCRIPTION:Max Monday Event featuring Dynamax Sizzlipede!\n\n💀 Max Battles:\n🔹 Dynamax Sizzlipede\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Max Monday (Dynamax Sizzlipede)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-0beccdfa3c341bdfc4dd01b4a57e7691@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261007T100000
+DTEND;TZID=America/Mexico_City:20261014T100000
+SUMMARY:Pokémon GO: Raids Yveltal & Mega Blastoise
+DESCRIPTION:Featured Legendary and Mega Raids!\n\n💀 Raid Bosses:\n🔹 5-Star: Yveltal (Oblivion Wing)\n🔹 Mega Raids: Mega Blastoise\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raids Yveltal & Mega Blastoise
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-c773e0a61b2eefc3687c11deeccf86a0@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261007T180000
+DTEND;TZID=America/Mexico_City:20261007T190000
+SUMMARY:Pokémon GO: Raid Hour (Yveltal)
+DESCRIPTION:Weekly Raid Hour featuring Legendary Pokémon Yveltal!\n\n💀 Raid Bosses:\n🔹 Yveltal (Oblivion Wing)\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raid Hour (Yveltal)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-6998772f3ad4e7f023f0cb65f32e4e85@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261008T180000
+DTEND;TZID=America/Mexico_City:20261008T190000
+SUMMARY:Pokémon GO: Spotlight Hour (Elgyem)
+DESCRIPTION:Weekly Spotlight Hour featuring Elgyem!\n\n💀 Featured Pokémon:\n🔹 Elgyem (Shiny available)\n\n---\n🎁 Bonuses:\n✅ 2x Catch Candy\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Elgyem)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-97ba726a48ea4747d5c38ef259a89afc@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261010T140000
+DTEND;TZID=America/Mexico_City:20261010T170000
+SUMMARY:Pokémon GO: Zorua Community Day
+DESCRIPTION:October Community Day featuring Zorua, the Tricky Fox Pokémon!\n\n💀 Featured Pokémon & Attack:\n🔹 Zorua (Increased Shiny Odds)\n🔹 Evolve to Zoroark for Fast Attack Sucker Punch\n\n---\n🎁 Bonuses:\n✅ 3x Catch XP\n✅ 2x Catch Candy\n✅ 2x Chance for Candy XL (Trainers 31+)\n✅ 3-Hour Incense & 1-Hour Lures\n✅ 50% less Stardust for trades & 1 extra Special Trade\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Zorua Community Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-71a08691d72cba62c9ecb678885276db@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261012T180000
+DTEND;TZID=America/Mexico_City:20261012T190000
+SUMMARY:Pokémon GO: Max Monday (Dynamax Rookidee)
+DESCRIPTION:Max Monday Event featuring Dynamax Rookidee!\n\n💀 Max Battles:\n🔹 Dynamax Rookidee\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Max Monday (Dynamax Rookidee)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-fdfe0900867ddcec995a21d78f2fa6c8@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261013T100000
+DTEND;TZID=America/Mexico_City:20261019T200000
+SUMMARY:Pokémon GO: Fall Marathon - Buddy Trek
+DESCRIPTION:Celebrate the autumn season with your Buddy Pokémon during the Fall Marathon!\n\n💀 Event Features:\n🔹 Buddy exploration tasks and rewards\n🔹 Event-themed wild encounters\n🔹 Special Timed Research\n\n---\n🎁 Bonuses:\n✅ 1/2 Buddy Walking distance for Candy\n✅ Increased chance to receive Souvenirs and Presents from Buddy\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Fall Marathon - Buddy Trek
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-37d4bdb421db835b0635264020cdf74e@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261014T100000
+DTEND;TZID=America/Mexico_City:20261021T100000
+SUMMARY:Pokémon GO: Raids Dialga & Mega Dragonite
+DESCRIPTION:Featured Legendary and Mega Raids!\n\n💀 Raid Bosses:\n🔹 5-Star: Dialga\n🔹 Mega Raids: Mega Dragonite\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raids Dialga & Mega Dragonite
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-4f0b8fa9e9abb2aadf316d75b10a96ec@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261014T180000
+DTEND;TZID=America/Mexico_City:20261014T190000
+SUMMARY:Pokémon GO: Raid Hour (Dialga)
+DESCRIPTION:Weekly Raid Hour featuring Legendary Pokémon Dialga!\n\n💀 Raid Bosses:\n🔹 Dialga\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raid Hour (Dialga)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-47e4c0e2ce6e9fcca597f38dea1f477d@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261015T180000
+DTEND;TZID=America/Mexico_City:20261015T190000
+SUMMARY:Pokémon GO: Spotlight Hour (Stufful)
+DESCRIPTION:Weekly Spotlight Hour featuring Stufful!\n\n💀 Featured Pokémon:\n🔹 Stufful (Shiny available)\n\n---\n🎁 Bonuses:\n✅ 2x Transfer Candy\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Stufful)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-ce840da95fb92d7de2583b0a7003c9f1@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261017T110000
+DTEND;TZID=America/Mexico_City:20261017T170000
+SUMMARY:Pokémon GO: Hatch Day
+DESCRIPTION:October Hatch Day event!\n\n💀 Event Features:\n🔹 Featured Pokémon hatching from 2km Eggs\n🔹 Increased Shiny odds from event Eggs\n\n---\n🎁 Bonuses:\n✅ 1/2 Hatch Distance\n✅ 2x Hatch Candy\n✅ Increased chance to receive 2km Eggs from PokéStops\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Hatch Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-95e162fe12000fde5e96b12401f0e751@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261019T180000
+DTEND;TZID=America/Mexico_City:20261019T190000
+SUMMARY:Pokémon GO: Max Monday (Dynamax Sneasel)
+DESCRIPTION:Max Monday Event featuring Dynamax Sneasel!\n\n💀 Max Battles:\n🔹 Dynamax Sneasel\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Max Monday (Dynamax Sneasel)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-9e58f1d28a6a813bb5e0d78ad710bbfe@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261021T100000
+DTEND;TZID=America/Mexico_City:20261028T100000
+SUMMARY:Pokémon GO: Raids Palkia & Mega Charizard
+DESCRIPTION:Featured Legendary and Mega Raids!\n\n💀 Raid Bosses:\n🔹 5-Star: Palkia\n🔹 Mega Raids: Mega Charizard X & Mega Charizard Y\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raids Palkia & Mega Charizard
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-385c4677986647df46b54885d08fa4aa@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261021T180000
+DTEND;TZID=America/Mexico_City:20261021T190000
+SUMMARY:Pokémon GO: Raid Hour (Palkia)
+DESCRIPTION:Weekly Raid Hour featuring Legendary Pokémon Palkia!\n\n💀 Raid Bosses:\n🔹 Palkia\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raid Hour (Palkia)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-1a6dc5e0c7db884b04712c3556fad5dc@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261022T180000
+DTEND;TZID=America/Mexico_City:20261022T190000
+SUMMARY:Pokémon GO: Spotlight Hour (Morelull)
+DESCRIPTION:Weekly Spotlight Hour featuring Morelull!\n\n💀 Featured Pokémon:\n🔹 Morelull (Shiny available)\n\n---\n🎁 Bonuses:\n✅ 2x Catch Stardust\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Morelull)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-623b75c7e1ad0a2b96e0e4157ae8917e@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261024T140000
+DTEND;TZID=America/Mexico_City:20261024T170000
+SUMMARY:Pokémon GO: Max Battle Day
+DESCRIPTION:Max Battle Day featuring powerful Dynamax Pokémon!\n\n💀 Max Battles:\n🔹 Featured Dynamax Pokémon at Power Spots\n\n---\n🎁 Bonuses:\n✅ Increased Max Particle limit from Power Spots\n✅ Event Timed Research\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Max Battle Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-fed05a5676ef8d821a1ce23b8378ee4c@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261026T180000
+DTEND;TZID=America/Mexico_City:20261026T190000
+SUMMARY:Pokémon GO: Max Monday (Dynamax Sableye)
+DESCRIPTION:Max Monday Event featuring Dynamax Sableye!\n\n💀 Max Battles:\n🔹 Dynamax Sableye\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Max Monday (Dynamax Sableye)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-a7f26f435027c0aa2431ac857b1c182c@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261027T100000
+DTEND;TZID=America/Mexico_City:20261031T200000
+SUMMARY:Pokémon GO: Halloween 2026 Part I
+DESCRIPTION:The annual Halloween celebration kicks off with Ghost-type Pokémon and spooky surprises!\n\n💀 Event Features:\n🔹 Ghost- and Dark-type wild spawns\n🔹 Costumed Pokémon appearances\n🔹 Spooky Timed Research & Spiritomb encounters\n🔹 Halloween background and music\n\n---\n🎁 Bonuses:\n✅ 2x Catch Candy\n✅ 2x Transfer Candy\n✅ Extra Candy XL from catching costumed Pokémon\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Halloween 2026 Part I
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-e380f4cf53e44baab5ae73b44bd9bd2f@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261028T100000
+DTEND;TZID=America/Mexico_City:20261104T100000
+SUMMARY:Pokémon GO: Raids Giratina (Origin Forme) & Mega Sableye
+DESCRIPTION:Featured Legendary and Mega Raids for Halloween season!\n\n💀 Raid Bosses:\n🔹 5-Star: Giratina (Origin Forme) (Shadow Force)\n🔹 Mega Raids: Mega Sableye\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raids Giratina (Origin Forme) & Mega Sableye
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-bcbbe691efd4b47d2acf7cf5ff72c821@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261028T180000
+DTEND;TZID=America/Mexico_City:20261028T190000
+SUMMARY:Pokémon GO: Raid Hour (Giratina Origin Forme)
+DESCRIPTION:Weekly Raid Hour featuring Giratina (Origin Forme)!\n\n💀 Raid Bosses:\n🔹 Giratina (Origin Forme) (Shadow Force)\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Raid Hour (Giratina Origin Forme)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-189db9b4741034be0c5825ee5f5007c9@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261029T180000
+DTEND;TZID=America/Mexico_City:20261029T190000
+SUMMARY:Pokémon GO: Spotlight Hour (Gastly)
+DESCRIPTION:Weekly Spotlight Hour featuring Gastly!\n\n💀 Featured Pokémon:\n🔹 Gastly (Shiny available)\n\n---\n🎁 Bonuses:\n✅ 2x Evolve XP\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Spotlight Hour (Gastly)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-c88b81683b9e23e7d943292f005cdc11@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261031T140000
+DTEND;TZID=America/Mexico_City:20261031T170000
+SUMMARY:Pokémon GO: Super Mega Raid Day
+DESCRIPTION:Special Halloween Super Mega Raid Day!\n\n💀 Featured Boss:\n🔹 Super Mega Raid Boss (To be announced)\n\n---\n🎁 Bonuses:\n✅ Up to 5 free additional Raid Passes from Gyms\n✅ Increased Remote Raid Pass limit\n✅ Increased Shiny chance for featured boss\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Super Mega Raid Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-c21358a406571d923f8fe27b9f8dcf3d@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261101T100000
+DTEND;TZID=America/Mexico_City:20261105T200000
+SUMMARY:Pokémon GO: Halloween 2026 Part II
+DESCRIPTION:The Halloween celebration continues into early November with part two!\n\n💀 Event Features:\n🔹 More costumed Pokémon and Ghost-type spawns\n🔹 Part II Timed Research rewards\n🔹 Special PokéStop showcases\n\n---\n🎁 Bonuses:\n✅ 2x Catch Candy\n✅ 2x Hatch Candy\n✅ Increased chance of Candy XL when catching costumed Pokémon\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Halloween 2026 Part II
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-2af2317322ed6093796bd5a1485ac6bd@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261106T100000
+DTEND;TZID=America/Mexico_City:20261108T180000
 SUMMARY:Pokémon GO: Wild Area 2026 - Mexico City
-DESCRIPTION:Pokémon GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Dynamax Dialga and Dynamax Palkia, and powerful mighty Pokémon.\n\n🗓️ **Dates:** November 6 - 8, 2026\n⏰ **Time:** 10:00 AM – 6:00 PM local time (UTC-6) each day\n📍 **Location:** Mexico City, Mexico (ticket required)\n\n💀 **Raids & Max Battles:**\n🔹 3-Star: Machamp (Modern Jacket)\n🔹 Max Battles: Dynamax Dialga, Dynamax Palkia\n\n🎁 **Features:**\n🔹 Debuts of Dynamax Dialga and Dynamax Palkia\n🔹 Mighty Latias and Latios (Incense)\n🔹 Mighty Pokémon spawns (High IVs, XL/XXL, harder to catch)\n🔹 GO Safari Balls available to improve catch rates\n🔹 10km Eggs: Honedge, Klefki, Drampa, Duraludon, Jangmo-o\n🔹 Special Research for ticket holders\n\n---\n🔗 Source: LeekDuck.com
+DESCRIPTION:Pokémon GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Dynamax Dialga and Dynamax Palkia, and powerful mighty Pokémon.\n\n💀 Raids & Max Battles:\n🔹 3-Star: Machamp (Modern Jacket)\n🔹 Max Battles: Dynamax Dialga, Dynamax Palkia\n\n---\n🎁 Features & Bonuses:\n✅ Debuts of Dynamax Dialga and Dynamax Palkia\n✅ Mighty Latias and Latios (Incense)\n✅ Mighty Pokémon spawns (High IVs, XL/XXL)\n✅ GO Safari Balls available\n✅ 10km Eggs: Honedge, Klefki, Drampa, Duraludon, Jangmo-o\n✅ Special Research for ticket holders\n\n🔗 Source: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pokémon GO: Wild Area 2026 - Mexico City
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-89b837f83fb366e6ed25c05fca789c1e@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261114T100000
+DTEND;TZID=America/Mexico_City:20261115T180000
+SUMMARY:Pokémon GO: Wild Area 2026 - Global
+DESCRIPTION:Pokémon GO Wild Area: Global brings Electric, Poison, Steel, and Dragon-type Pokémon worldwide!\n\n💀 Raids & Max Battles:\n🔹 Max Battles: Dynamax Toxtricity, Dynamax Dialga, Dynamax Palkia\n🔹 Mighty Pokémon spawns in the wild\n\n---\n🎁 Bonuses:\n✅ GO Safari Balls available\n✅ 1/2 Hatch Distance\n✅ 2x Catch Stardust\n✅ Timed Research & Special Habitats\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Wild Area 2026 - Global
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-9cdcc234cb2a42f3c4271ee114c55976@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261121T140000
+DTEND;TZID=America/Mexico_City:20261121T170000
+SUMMARY:Pokémon GO: November Community Day
+DESCRIPTION:November Community Day featuring a special featured Pokémon!\n\n💀 Featured Pokémon:\n🔹 Featured Pokémon (To be announced)\n🔹 Exclusive Event Move upon evolution\n\n---\n🎁 Bonuses:\n✅ 3-Hour Incense & Lure Modules\n✅ Event catch bonuses\n✅ Special trades and snapshot surprises\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: November Community Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-4ae031499fe5361422c3cd680032628b@gocalendar.local
+DTSTAMP:20260919T051514Z
+DTSTART;TZID=America/Mexico_City:20261128T140000
+DTEND;TZID=America/Mexico_City:20261128T170000
+SUMMARY:Pokémon GO: Super Mega Raid Day
+DESCRIPTION:Super Mega Raid Day returns in late November!\n\n💀 Featured Boss:\n🔹 Super Mega Raid Boss (To be announced)\n\n---\n🎁 Bonuses:\n✅ Up to 5 free additional Raid Passes from Gyms\n✅ Increased Remote Raid Pass limit\n✅ Increased Shiny chance for featured boss\n\n🔗 Source: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Super Mega Raid Day
 END:VALARM
 END:VEVENT
 END:VCALENDAR
