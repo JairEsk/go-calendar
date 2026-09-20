@@ -48,10 +48,16 @@
     "description": "Weekly Spotlight Hour.\n\n💀 Featured Pokémon:\n🔹 Houndour\n🔹 Houndoom\n\n---\n🎁 Bonuses:\n✅ 2x Catch Stardust\n\n🔗 Source: LeekDuck.com"
   },
   {
-    "title": "Pokémon GO: Raids Zacian & Shadow Thundurus",
+    "title": "Pokémon GO: Shadow Raid Rotation (Thundurus)",
+    "start": "2026-09-09 06:00",
+    "end": "2026-10-06 22:00",
+    "description": "Shadow Thundurus (Incarnate Forme) appears in 5-Star Shadow Raids every weekend during this window.\n\n💀 Raid Bosses:\n🔹 5-Star Shadow: Thundurus (Incarnate Forme)\n\n---\n🎁 Bonuses:\n✅ Increased Shiny chance for Shadow Thundurus\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Raids Zacian",
     "start": "2026-09-09 10:00",
     "end": "2026-09-16 10:00",
-    "description": "Featured Legendary and Shadow Raids!\n\n💀 Raid Bosses:\n🔹 5-Star: Zacian (Hero of Many Battles)\n🔹 Shadow 5-Star: Shadow Thundurus\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com"
+    "description": "Featured Legendary Raid!\n\n💀 Raid Bosses:\n🔹 5-Star: Zacian (Hero of Many Battles)\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Raid Hour (Zacian)",
@@ -202,6 +208,12 @@
     "start": "2026-10-05 18:00",
     "end": "2026-10-05 19:00",
     "description": "Max Monday Event featuring Dynamax Sizzlipede!\n\n💀 Max Battles:\n🔹 Dynamax Sizzlipede\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Shadow Raid Rotation (Landorus)",
+    "start": "2026-10-07 06:00",
+    "end": "2026-11-03 22:00",
+    "description": "Shadow Landorus (Incarnate Forme) appears in 5-Star Shadow Raids every weekend during this window.\n\n💀 Raid Bosses:\n🔹 5-Star Shadow: Landorus (Incarnate Forme)\n\n---\n🎁 Bonuses:\n✅ Increased Shiny chance for Shadow Landorus\n\n🔗 Source: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Raids Yveltal & Mega Blastoise",

@@ -48,10 +48,16 @@
     "description": "Hora Destacada Semanal.\n\n💀 Pokémon Destacados:\n🔹 Houndour\n🔹 Houndoom\n\n---\n🎁 Bonus:\n✅ 2x Polvo Estelar por captura\n\n🔗 Fuente: LeekDuck.com"
   },
   {
-    "title": "Pokémon GO: Incursiones Zacian y Thundurus",
+    "title": "Pokémon GO: Rotación de Incursiones Oscuras (Thundurus)",
+    "start": "2026-09-09 06:00",
+    "end": "2026-10-06 22:00",
+    "description": "¡Thundurus Oscuro (Forma Corpórea) aparece en Incursiones Oscuras de 5 estrellas cada fin de semana durante este período!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5 Oscuro: Thundurus (Forma Corpórea)\n\n---\n🎁 Bonus:\n✅ Mayor probabilidad de Thundurus Oscuro Variocolor\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Incursiones Zacian",
     "start": "2026-09-09 10:00",
     "end": "2026-09-16 10:00",
-    "description": "¡Incursiones Legendarias y Oscuras destacadas!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Zacian (Héroe de Muchas Batallas)\n🔹 Nivel 5 Oscuro: Thundurus Oscuro\n\n---\n🎁 Bonus:\n✅ Honor Balls adicionales en combates de Gimnasio\n\n🔗 Fuente: LeekDuck.com"
+    "description": "¡Incursión Legendaria destacada!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Zacian (Héroe de Muchas Batallas)\n\n---\n🎁 Bonus:\n✅ Honor Balls adicionales en combates de Gimnasio\n\n🔗 Fuente: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Hora Legendaria (Zacian)",
@@ -202,6 +208,12 @@
     "start": "2026-10-05 18:00",
     "end": "2026-10-05 19:00",
     "description": "¡Evento Lunes Max con Sizzlipede Dinamax!\n\n💀 Combates Max:\n🔹 Sizzlipede Dinamax\n\n---\n🎁 Bonus:\n✅ Aumento de Partículas Max\n\n🔗 Fuente: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Rotación de Incursiones Oscuras (Landorus)",
+    "start": "2026-10-07 06:00",
+    "end": "2026-11-03 22:00",
+    "description": "¡Landorus Oscuro (Forma Corpórea) aparece en Incursiones Oscuras de 5 estrellas cada fin de semana durante este período!\n\n💀 Jefes de Incursión:\n🔹 Nivel 5 Oscuro: Landorus (Forma Corpórea)\n\n---\n🎁 Bonus:\n✅ Mayor probabilidad de Landorus Oscuro Variocolor\n\n🔗 Fuente: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Incursiones Yveltal y Mega Blastoise",
