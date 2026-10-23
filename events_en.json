@@ -48,16 +48,16 @@
     "description": "Weekly Spotlight Hour.\n\n💀 Featured Pokémon:\n🔹 Houndour\n🔹 Houndoom\n\n---\n🎁 Bonuses:\n✅ 2x Catch Stardust\n\n🔗 Source: LeekDuck.com"
   },
   {
-    "title": "Pokémon GO: Shadow Raid Rotation (Thundurus)",
-    "start": "2026-09-09 00:00",
-    "end": "2026-09-09 23:59",
-    "description": "Shadow Thundurus (Incarnate Forme) appears in 5-Star Shadow Raids every weekend during this window.\n\n📅 Active window: Sep 9, 06:00 → Oct 6, 22:00\n\n💀 Raid Bosses:\n🔹 5-Star Shadow: Thundurus (Incarnate Forme)\n\n---\n🎁 Bonuses:\n✅ Increased Shiny chance for Shadow Thundurus\n\n🔗 Source: LeekDuck.com"
-  },
-  {
     "title": "Pokémon GO: Raids Zacian",
     "start": "2026-09-09 00:00",
     "end": "2026-09-09 23:59",
     "description": "Featured Legendary Raid!\n\n📅 Active window: Sep 9, 10:00 → Sep 16, 10:00\n\n💀 Raid Bosses:\n🔹 5-Star: Zacian (Hero of Many Battles)\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Shadow Raid Rotation (Thundurus)",
+    "start": "2026-09-09 00:00",
+    "end": "2026-09-09 23:59",
+    "description": "Shadow Thundurus (Incarnate Forme) appears in 5-Star Shadow Raids every weekend during this window.\n\n📅 Active window: Sep 9, 06:00 → Oct 6, 22:00\n\n💀 Raid Bosses:\n🔹 5-Star Shadow: Thundurus (Incarnate Forme)\n\n---\n🎁 Bonuses:\n✅ Increased Shiny chance for Shadow Thundurus\n\n🔗 Source: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Raid Hour (Zacian)",
@@ -216,16 +216,16 @@
     "description": "Max Monday Event featuring Dynamax Sizzlipede!\n\n💀 Max Battles:\n🔹 Dynamax Sizzlipede\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com"
   },
   {
-    "title": "Pokémon GO: Shadow Raid Rotation (Landorus)",
-    "start": "2026-10-07 00:00",
-    "end": "2026-10-07 23:59",
-    "description": "Shadow Landorus (Incarnate Forme) appears in 5-Star Shadow Raids every weekend during this window.\n\n📅 Active window: Oct 7, 06:00 → Nov 3, 22:00\n\n💀 Raid Bosses:\n🔹 5-Star Shadow: Landorus (Incarnate Forme)\n\n---\n🎁 Bonuses:\n✅ Increased Shiny chance for Shadow Landorus\n\n🔗 Source: LeekDuck.com"
-  },
-  {
     "title": "Pokémon GO: Raids Yveltal & Mega Blastoise",
     "start": "2026-10-07 00:00",
     "end": "2026-10-07 23:59",
     "description": "Featured Legendary and Mega Raids!\n\n📅 Active window: Oct 7, 10:00 → Oct 14, 10:00\n\n💀 Raid Bosses:\n🔹 5-Star: Yveltal (Oblivion Wing)\n🔹 Mega Raids: Mega Blastoise\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Shadow Raid Rotation (Landorus)",
+    "start": "2026-10-07 00:00",
+    "end": "2026-10-07 23:59",
+    "description": "Shadow Landorus (Incarnate Forme) appears in 5-Star Shadow Raids every weekend during this window.\n\n📅 Active window: Oct 7, 06:00 → Nov 3, 22:00\n\n💀 Raid Bosses:\n🔹 5-Star Shadow: Landorus (Incarnate Forme)\n\n---\n🎁 Bonuses:\n✅ Increased Shiny chance for Shadow Landorus\n\n🔗 Source: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Raid Hour (Yveltal)",
@@ -326,8 +326,8 @@
   {
     "title": "Pokémon GO: Halloween 2026 Part I",
     "start": "2026-10-27 10:00",
-    "end": "2026-10-31 20:00",
-    "description": "The annual Halloween celebration kicks off with Ghost-type Pokémon and spooky surprises!\n\n💀 Event Features:\n🔹 Ghost- and Dark-type wild spawns\n🔹 Costumed Pokémon appearances\n🔹 Spooky Timed Research & Spiritomb encounters\n🔹 Halloween background and music\n\n---\n🎁 Bonuses:\n✅ 2x Catch Candy\n✅ 2x Transfer Candy\n✅ Extra Candy XL from catching costumed Pokémon\n\n🔗 Source: LeekDuck.com"
+    "end": "2026-11-01 10:00",
+    "description": "The annual Halloween celebration kicks off with Ghost-type Pokémon, costumed debuts, and spooky surprises!\n\n💀 Event Features:\n🔹 Debuts: Pikachu wearing a hat and capelet, Zubat wearing a top hat, Sinistea wearing a bow (all can be Shiny)\n🔹 Wild encounters: Zubat wearing a top hat, Duskull, Piplup wearing a Halloween Mischief costume; rare: Drifblim wearing a Halloween Mischief costume\n🔹 Trick or Treat surprises: Tap spooky objects in the wild for Candy rewards\n🔹 Nightly Lavender Town music remix & themed decorations\n\n---\n🎁 Bonuses:\n✅ 2x Catch Candy (GO Pass Tier 1)\n✅ 2x Catch Stardust (GO Pass Tier 2)\n✅ Event-exclusive Field Research\n\n🔗 Source: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Raids Giratina (Origin Forme) & Mega Sableye",
@@ -348,22 +348,70 @@
     "description": "Weekly Spotlight Hour featuring Gastly!\n\n💀 Featured Pokémon:\n🔹 Gastly (Shiny available)\n\n---\n🎁 Bonuses:\n✅ 2x Evolve XP\n\n🔗 Source: LeekDuck.com"
   },
   {
-    "title": "Pokémon GO: Super Mega Raid Day",
+    "title": "Pokémon GO: Chandelure Super Mega Raid Day",
     "start": "2026-10-31 14:00",
     "end": "2026-10-31 17:00",
-    "description": "Special Halloween Super Mega Raid Day!\n\n💀 Featured Boss:\n🔹 Super Mega Raid Boss (To be announced)\n\n---\n🎁 Bonuses:\n✅ Up to 5 free additional Raid Passes from Gyms\n✅ Increased Remote Raid Pass limit\n✅ Increased Shiny chance for featured boss\n\n🔗 Source: LeekDuck.com"
+    "description": "Mega Chandelure makes its Pokémon GO debut during Chandelure Super Mega Raid Day!\n\n💀 Featured Boss:\n🔹 Mega Chandelure (Super Mega Raids)\n🔹 Mega Level 1 unlocked on catch; can reach Super Max Level\n🔹 Additional Charged Attack: Ominous Wind+\n\n---\n🎁 Bonuses:\n✅ Up to 6 free Raid Passes from spinning Gym Photo Discs\n✅ Increased chance of encountering Shiny Chandelure from Super Mega Raids\n✅ Daily Remote Raid limit increased to 20 (Oct 30, 5:00 PM – Oct 31, 8:00 PM PDT)\n✅ Global Challenge with bonus unlocks\n\n🔗 Source: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Halloween 2026 Part II",
     "start": "2026-11-01 10:00",
     "end": "2026-11-05 20:00",
-    "description": "The Halloween celebration continues into early November with part two!\n\n💀 Event Features:\n🔹 More costumed Pokémon and Ghost-type spawns\n🔹 Part II Timed Research rewards\n🔹 Special PokéStop showcases\n\n---\n🎁 Bonuses:\n✅ 2x Catch Candy\n✅ 2x Hatch Candy\n✅ Increased chance of Candy XL when catching costumed Pokémon\n\n🔗 Source: LeekDuck.com"
+    "description": "The Halloween celebration continues into early November with part two!\n\n💀 Event Features:\n🔹 Debut: Shiny Greavard makes its Pokémon GO debut\n🔹 Super Max Mega Level: Mega Sableye can reach Super Max Level with the Charged Attack Night Shade+\n🔹 Wild encounters: Litwick, Greavard, Rowlet wearing a Pokémon Halloween costume, and Gengar wearing a Spooky Festival costume\n🔹 1-Star Raids: Costumed Pikachu and Sinistea\n\n---\n🎁 Bonuses:\n✅ 2x Catch Candy (GO Pass Tier 1)\n✅ 2x Catch Stardust (GO Pass Tier 2)\n✅ Field Research\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Max Monday (Dynamax Machop)",
+    "start": "2026-11-02 18:00",
+    "end": "2026-11-02 19:00",
+    "description": "Max Monday Event featuring Dynamax Machop!\n\n💀 Max Battles:\n🔹 Dynamax Machop\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Raids Giratina (Altered Forme) & Mega Sableye",
+    "start": "2026-11-04 00:00",
+    "end": "2026-11-04 23:59",
+    "description": "Featured Legendary and Mega Raids!\n\n📅 Active window: Nov 4, 10:00 → Nov 8, 10:00\n\n💀 Raid Bosses:\n🔹 5-Star: Giratina (Altered Forme)\n🔹 Mega Raids: Mega Sableye (continued)\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Shadow Raid Rotation (Tornadus)",
+    "start": "2026-11-04 00:00",
+    "end": "2026-11-04 23:59",
+    "description": "Shadow Tornadus (Incarnate Forme) appears in 5-Star Shadow Raids every weekend during this window.\n\n📅 Active window: Nov 4, 06:00 → Nov 8, 22:00\n\n💀 Raid Bosses:\n🔹 5-Star Shadow: Tornadus (Incarnate Forme)\n\n---\n🎁 Bonuses:\n✅ Increased Shiny chance for Shadow Tornadus\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Raid Hour (Giratina Altered Forme)",
+    "start": "2026-11-04 18:00",
+    "end": "2026-11-04 19:00",
+    "description": "Weekly Raid Hour featuring Legendary Pokémon Giratina (Altered Forme)!\n\n💀 Raid Bosses:\n🔹 Giratina (Altered Forme)\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Spotlight Hour (Teddiursa wearing a witch hat)",
+    "start": "2026-11-05 18:00",
+    "end": "2026-11-05 19:00",
+    "description": "Weekly Spotlight Hour featuring Teddiursa wearing a witch hat!\n\n💀 Featured Pokémon:\n🔹 Teddiursa wearing a witch hat (Shiny available)\n\n---\n🎁 Bonuses:\n✅ 2x Evolve XP\n\n🔗 Source: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Wild Area 2026 - In-Person Events",
     "start": "2026-11-06 00:00",
     "end": "2026-11-08 23:59",
     "description": "GO Wild Area returns in 2026 with in-person events in Mexico City and Sendai • Tohoku, featuring Steel- and Dragon-type Pokémon, the debuts of Dynamax Dialga and Dynamax Palkia, and powerful mighty Pokémon.\n\n📍 Locations (Nov 6-8, 10:00 - 18:00 local time):\n🔹 Mexico City, Mexico - Parque Bicentenario\n🔹 Sendai, Japan - gameplay throughout Miyagi Prefecture\n\n💀 Raids & Max Battles:\n🔹 3-Star: Machamp (Modern Jacket)\n🔹 Max Battles: Dynamax Dialga, Dynamax Palkia\n\n---\n🎁 Features & Bonuses:\n✅ Debuts of Dynamax Dialga and Dynamax Palkia\n✅ Hisuian Sliggoo and Hisuian Goodra debut\n✅ Mighty Latias and Latios (Incense)\n✅ Mighty Hawlucha exclusive to Mexico City\n✅ Mighty Lapras exclusive to Sendai\n✅ Mighty Pokémon spawns (High IVs, XL/XXL)\n✅ GO Safari Balls available\n✅ 10km Eggs: Honedge, Klefki, Drampa, Duraludon, Jangmo-o\n✅ Special Research for ticket holders\n\n⚠️ Ticketed in-person events. Each location runs on its own local time.\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Into the Wild",
+    "start": "2026-11-09 10:00",
+    "end": "2026-11-13 20:00",
+    "description": "Head back Into the Wild for a Steel- and Dragon-type adventure on the road to Pokémon GO Wild Area 2026!\n\n💀 Max Battles & Raids:\n🔹 Max Battles: Dynamax Regidrago (debut in 5-star Max Battles), Dynamax Meltan (via GO Pass)\n🔹 5-Star Raids: Zacian (Crowned Sword) & Zamazenta (Crowned Shield)\n🔹 3-Star Raids: Druddigon, Orthworm\n🔹 Daily 5-Star Max Battles (18:00 - 19:00): Registeel (Nov 11), Regidrago (Nov 12), Latias & Latios (Nov 13)\n\n---\n🎁 Bonuses:\n✅ Remote Raid limit increased to 30 (Nov 9–13)\n✅ Chance to encounter Shiny Gimmighoul using a Coin Bag\n✅ Chance to encounter Shiny Meltan from the Mystery Box with reduced cooldown\n✅ Chance for new Special Background from 5-Star Raids & Max Battles\n✅ Into the Wild Global Challenge\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Raid Hour (Zacian Crowned Sword)",
+    "start": "2026-11-09 18:00",
+    "end": "2026-11-09 19:00",
+    "description": "Special Raid Hour featuring Zacian (Crowned Sword)!\n\n💀 Raid Bosses:\n🔹 Zacian (Crowned Sword)\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n✅ Earn Crowned Sword Energy\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Raid Hour (Zamazenta Crowned Shield)",
+    "start": "2026-11-10 18:00",
+    "end": "2026-11-10 19:00",
+    "description": "Special Raid Hour featuring Zamazenta (Crowned Shield)!\n\n💀 Raid Bosses:\n🔹 Zamazenta (Crowned Shield)\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n✅ Earn Crowned Shield Energy\n\n🔗 Source: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Wild Area 2026 - Global",
@@ -378,10 +426,64 @@
     "description": "Explore by starlight during the Leonids meteor shower for a chance to encounter Minior!\n\n💀 Event Features:\n🔹 Minior Core Debut: New Minior Core color debuts\n🔹 Explore by Starlight: Shooting stars and increased Minior spawns from 5:00 PM to 9:00 PM local time daily\n\n---\n🎁 Bonuses:\n✅ Increased Stardust for catching Minior\n\n🔗 Source: LeekDuck.com"
   },
   {
-    "title": "Pokémon GO: November Community Day",
+    "title": "Pokémon GO: Raids Cresselia, Darkrai & Mega Banette",
+    "start": "2026-11-16 00:00",
+    "end": "2026-11-16 23:59",
+    "description": "Featured Legendary, Mythical, and Mega Raids!\n\n📅 Active window: Nov 16, 10:00 → Nov 24, 10:00\n\n💀 Raid Bosses:\n🔹 5-Star: Cresselia & Darkrai\n🔹 Mega Raids: Mega Banette\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Shadow Raid Rotation (Tornadus)",
+    "start": "2026-11-16 00:00",
+    "end": "2026-11-16 23:59",
+    "description": "Shadow Tornadus (Incarnate Forme) appears in 5-Star Shadow Raids every weekend during this window.\n\n📅 Active window: Nov 16, 06:00 → Dec 1, 22:00\n\n💀 Raid Bosses:\n🔹 5-Star Shadow: Tornadus (Incarnate Forme)\n\n---\n🎁 Bonuses:\n✅ Increased Shiny chance for Shadow Tornadus\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Dynamax Trails",
+    "start": "2026-11-16 10:00",
+    "end": "2026-11-23 20:00",
+    "description": "New Dynamax event taking place during the Twilight Trails season!\n\n💀 Event Features:\n🔹 Details to be announced\n\n---\n🎁 Bonuses:\n✅ To be announced\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Raid Hour (Cresselia & Darkrai)",
+    "start": "2026-11-18 18:00",
+    "end": "2026-11-18 19:00",
+    "description": "Weekly Raid Hour featuring Legendary Pokémon Cresselia and Mythical Pokémon Darkrai!\n\n💀 Raid Bosses:\n🔹 Cresselia & Darkrai\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Pawniard Community Day",
     "start": "2026-11-21 14:00",
     "end": "2026-11-21 17:00",
-    "description": "November Community Day featuring a special featured Pokémon!\n\n💀 Featured Pokémon:\n🔹 Featured Pokémon (To be announced)\n🔹 Exclusive Event Move upon evolution\n\n---\n🎁 Bonuses:\n✅ 3-Hour Incense & Lure Modules\n✅ Event catch bonuses\n✅ Special trades and snapshot surprises\n\n🔗 Source: LeekDuck.com"
+    "description": "November Community Day featuring Pawniard, the Sharp Blade Pokémon!\n\n💀 Featured Pokémon & Moves:\n🔹 Pawniard appearing more frequently in the wild (Shiny available, special background chance)\n🔹 Featured Attack: Evolve Bisharp during the event or up to 4 hours afterwards to get Kingambit with Kowtow Cleave\n🔹 Limited-time Evolution: Evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss (2:00 PM – 9:00 PM local time)\n🔹 Lure Module bonus: High chance of Pawniard at PokéStops with active regular Lures until 9:00 PM\n\n---\n🎁 Bonuses:\n✅ 1/4 Hatch Distance for Eggs placed in Incubators during the event\n✅ 2x Catch Candy\n✅ 2x Chance for Candy XL (Trainers Lv 31+)\n✅ 3-Hour Incense & 1-Hour Lure Modules\n✅ 1 Additional Special Trade (up to 2 for the day)\n✅ 50% less Stardust for Trades\n✅ Photobomb surprise encounters\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Max Monday (Dynamax Espurr)",
+    "start": "2026-11-23 18:00",
+    "end": "2026-11-23 19:00",
+    "description": "Max Monday Event featuring Dynamax Espurr!\n\n💀 Max Battles:\n🔹 Dynamax Espurr\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Twilight Wishes",
+    "start": "2026-11-24 10:00",
+    "end": "2026-11-30 20:00",
+    "description": "Wrap up the Twilight Trails season with Twilight Wishes!\n\n💀 Event Features:\n🔹 Details to be announced\n\n---\n🎁 Bonuses:\n✅ To be announced\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Raids Deoxys & Mega Metagross",
+    "start": "2026-11-25 00:00",
+    "end": "2026-11-25 23:59",
+    "description": "Featured Mythical and Mega Raids!\n\n📅 Active window: Nov 25, 10:00 → Dec 1, 10:00\n\n💀 Raid Bosses:\n🔹 5-Star: Deoxys (Normal, Defense, Attack, and Speed Formes)\n🔹 Mega Raids: Mega Metagross\n\n---\n🎁 Bonuses:\n✅ Extra Premier Balls from Gym battles\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Raid Hour (Deoxys)",
+    "start": "2026-11-25 18:00",
+    "end": "2026-11-25 19:00",
+    "description": "Weekly Raid Hour featuring all Formes of Deoxys!\n\n💀 Raid Bosses:\n🔹 Deoxys (Normal, Defense, Attack, and Speed Formes)\n\n---\n🎁 Bonuses:\n✅ Increased 5-Star Raids\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: Spotlight Hour (Noibat)",
+    "start": "2026-11-26 18:00",
+    "end": "2026-11-26 19:00",
+    "description": "Weekly Spotlight Hour featuring Noibat!\n\n💀 Featured Pokémon:\n🔹 Noibat (Shiny available)\n\n---\n🎁 Bonuses:\n✅ 2x Catch Candy\n\n🔗 Source: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: Super Mega Raid Day",
@@ -390,10 +492,22 @@
     "description": "Super Mega Raid Day returns in late November!\n\n💀 Featured Boss:\n🔹 Super Mega Raid Boss (To be announced)\n\n---\n🎁 Bonuses:\n✅ Up to 5 free additional Raid Passes from Gyms\n✅ Increased Remote Raid Pass limit\n✅ Increased Shiny chance for featured boss\n\n🔗 Source: LeekDuck.com"
   },
   {
+    "title": "Pokémon GO: Max Monday (Dynamax Cryogonal)",
+    "start": "2026-11-30 18:00",
+    "end": "2026-11-30 19:00",
+    "description": "Max Monday Event featuring Dynamax Cryogonal!\n\n💀 Max Battles:\n🔹 Dynamax Cryogonal\n\n---\n🎁 Bonuses:\n✅ Increased Max Particles\n\n🔗 Source: LeekDuck.com"
+  },
+  {
     "title": "Pokémon GO: Minior Showers - Geminids 2026",
     "start": "2026-12-11 17:00",
     "end": "2026-12-16 23:59",
     "description": "Explore by starlight during the Geminids meteor shower for a chance to encounter Minior!\n\n💀 Event Features:\n🔹 Minior Core Debuts: Unique Core colors debut in the Northern and Southern Hemispheres\n🔹 Explore by Starlight: Shooting stars and increased Minior spawns from 5:00 PM to 9:00 PM local time daily\n🔹 Upcoming 2027 Showers (Starts): Eta Aquariids (May 3, 2027), Southern Delta Aquariids (Jul 28, 2027), Perseids (Aug 10, 2027)\n\n---\n🎁 Bonuses:\n✅ Increased Stardust for catching Minior\n\n🔗 Source: LeekDuck.com"
+  },
+  {
+    "title": "Pokémon GO: GO Tour: Alola - In-Person Events",
+    "start": "2027-02-19 00:00",
+    "end": "2027-02-21 23:59",
+    "description": "Pokémon GO Tour returns in February 2027 celebrating the Alola region from Pokémon Sun, Pokémon Moon, Pokémon Ultra Sun, and Pokémon Ultra Moon with real-world in-person events!\n\n📍 Locations (Feb 19–21, 2027):\n🔹 Kaohsiung, Taiwan\n🔹 Los Angeles, California, USA\n\n💀 Event Features:\n🔹 Event hours and details to be announced next Season\n\n---\n🎁 Bonuses:\n✅ To be announced\n\n⚠️ Ticketed in-person events. Each location runs on its own local time.\n\n🔗 Source: LeekDuck.com"
   },
   {
     "title": "Pokémon GO: GO Tour: Alola - Global",
