@@ -7,7 +7,7 @@ X-WR-CALNAME:GO Events (ES)
 X-WR-TIMEZONE:America/Mexico_City
 BEGIN:VEVENT
 UID:go-event-32b8a07b9ccf738091e92b34384598e0@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260831T100000
 DTEND;TZID=America/Mexico_City:20260904T200000
 SUMMARY:Pokémon GO: Mega Ascensión
@@ -20,7 +20,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-7e2a426439bcc8f1a71cdfc28a3c74d6@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260901T180000
 DTEND;TZID=America/Mexico_City:20260901T190000
 SUMMARY:Pokémon GO: Hora Destacada (Weedle, Kakuna, Beedrill)
@@ -33,7 +33,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-c5d2ebcbec127e15cd8154462d8a8019@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260902T180000
 DTEND;TZID=America/Mexico_City:20260902T190000
 SUMMARY:Pokémon GO: Hora Legendaria (Trío Regi)
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-ee83bb6f3949fda4fbab0a61f3d37920@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260905T100000
 DTEND;TZID=America/Mexico_City:20260906T180000
 SUMMARY:Pokémon GO: Pokémon GO Fest: Mega Finale
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-21822473768a87de2314331d8ee3e091@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260905T100000
 DTEND;TZID=America/Mexico_City:20260906T235900
 SUMMARY:Pokémon GO: Celebración 10º Aniversario
@@ -72,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-3c883e953a74c8830835d2b9a63e6025@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260907T180000
 DTEND;TZID=America/Mexico_City:20260907T190000
 SUMMARY:Pokémon GO: Max Monday (Dynamax Rhyhorn)
@@ -85,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-9de6aa0f1336e3c903d9c6a9b6c624ce@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260908T100000
 DTEND;TZID=America/Mexico_City:20260914T200000
 SUMMARY:Pokémon GO: Escuadrones Mega
@@ -98,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-5f118c8a5895406d9da3039ee0233a09@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260908T180000
 DTEND;TZID=America/Mexico_City:20260908T190000
 SUMMARY:Pokémon GO: Hora Destacada (Houndour y Houndoom)
@@ -110,21 +110,8 @@ DESCRIPTION:Reminder: Pokémon GO: Hora Destacada (Houndour y Houndoom)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-5369327bf3070458a16549707daedd61@gocalendar.local
-DTSTAMP:20261008T055640Z
-DTSTART;TZID=America/Mexico_City:20260909T000000
-DTEND;TZID=America/Mexico_City:20260909T235900
-SUMMARY:Pokémon GO: Rotación de Incursiones Oscuras (Thundurus)
-DESCRIPTION:¡Thundurus Oscuro (Forma Corpórea) aparece en Incursiones Oscuras de 5 estrellas cada fin de semana durante este período!\n\n📅 Periodo activo: sep 9, 06:00 → oct 6, 22:00\n\n💀 Jefes de Incursión:\n🔹 Nivel 5 Oscuro: Thundurus (Forma Corpórea)\n\n---\n🎁 Bonus:\n✅ Mayor probabilidad de Thundurus Oscuro Variocolor\n\n🔗 Fuente: LeekDuck.com
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Rotación de Incursiones Oscuras (Thundurus)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-event-dfa76bedc0934616821b634c7eeb3794@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260909T000000
 DTEND;TZID=America/Mexico_City:20260909T235900
 SUMMARY:Pokémon GO: Incursiones Zacian
@@ -136,8 +123,21 @@ DESCRIPTION:Reminder: Pokémon GO: Incursiones Zacian
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:go-event-5369327bf3070458a16549707daedd61@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20260909T000000
+DTEND;TZID=America/Mexico_City:20260909T235900
+SUMMARY:Pokémon GO: Rotación de Incursiones Oscuras (Thundurus)
+DESCRIPTION:¡Thundurus Oscuro (Forma Corpórea) aparece en Incursiones Oscuras de 5 estrellas cada fin de semana durante este período!\n\n📅 Periodo activo: sep 9, 06:00 → oct 6, 22:00\n\n💀 Jefes de Incursión:\n🔹 Nivel 5 Oscuro: Thundurus (Forma Corpórea)\n\n---\n🎁 Bonus:\n✅ Mayor probabilidad de Thundurus Oscuro Variocolor\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Rotación de Incursiones Oscuras (Thundurus)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-event-64057bba1ff2576d3985a440e7a91174@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260909T180000
 DTEND;TZID=America/Mexico_City:20260909T190000
 SUMMARY:Pokémon GO: Hora Legendaria (Zacian)
@@ -150,7 +150,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-bb3c1a08c57004c25ccc778e56b914f3@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260912T140000
 DTEND;TZID=America/Mexico_City:20260912T170000
 SUMMARY:Pokémon GO: Día de la Comunidad Clásico (Gible)
@@ -163,7 +163,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-b7a591fea79b42133ee021a5c9876184@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260914T180000
 DTEND;TZID=America/Mexico_City:20260914T190000
 SUMMARY:Pokémon GO: Max Monday (Aves de Galar)
@@ -176,7 +176,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-6a44f603a26177f4b057a1ee1bbfb695@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260915T180000
 DTEND;TZID=America/Mexico_City:20260915T190000
 SUMMARY:Pokémon GO: Hora Destacada (Misterio)
@@ -189,7 +189,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-e3d206a5146e67a477f95600293fb7ac@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260916T000000
 DTEND;TZID=America/Mexico_City:20260916T235900
 SUMMARY:Pokémon GO: Incursiones Zamazenta y Mega Venusaur
@@ -202,7 +202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-b519dca6b3fa684845efb9d36888ac2e@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260916T100000
 DTEND;TZID=America/Mexico_City:20260922T200000
 SUMMARY:Pokémon GO: Celebración Horizontes Pokémon
@@ -215,7 +215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-848c9301829c1722bed6965fe7791b00@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260916T180000
 DTEND;TZID=America/Mexico_City:20260916T190000
 SUMMARY:Pokémon GO: Hora Legendaria (Zamazenta)
@@ -228,7 +228,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-61bbf051e8432adfddf278fba91bcd43@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260917T180000
 DTEND;TZID=America/Mexico_City:20260917T190000
 SUMMARY:Pokémon GO: Hora Destacada (Charmander con gafas de Friede)
@@ -241,7 +241,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-fdab47b9e0b7035b681ea6caacc9dcef@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260919T140000
 DTEND;TZID=America/Mexico_City:20260919T170000
 SUMMARY:Pokémon GO: Día de Super Megaincursiones (Staraptor)
@@ -254,7 +254,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-6373f774cf4cb1f2ddc477c37751bda3@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260921T180000
 DTEND;TZID=America/Mexico_City:20260921T190000
 SUMMARY:Pokémon GO: Lunes Max (Aves Legendarias Dinamax)
@@ -267,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-36b6b81282314b05658507bda76ec409@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260923T000000
 DTEND;TZID=America/Mexico_City:20260923T235900
 SUMMARY:Pokémon GO: Incursiones Ultraentes y Mega Malamar
@@ -280,7 +280,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-e0069c6e499fddc8d10df316f0e10bbf@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260923T100000
 DTEND;TZID=America/Mexico_City:20260928T200000
 SUMMARY:Pokémon GO: Elige tu Camino - Senderos Crepusculares
@@ -293,7 +293,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-ef08ba583fa76df83262b172a46a8d29@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260923T180000
 DTEND;TZID=America/Mexico_City:20260923T190000
 SUMMARY:Pokémon GO: Hora Legendaria (Xurkitree, Pheromosa, Buzzwole)
@@ -306,7 +306,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-43d32c35263ca902d7bb0f05ac91872b@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260924T180000
 DTEND;TZID=America/Mexico_City:20260924T190000
 SUMMARY:Pokémon GO: Hora Destacada (Rattata)
@@ -319,7 +319,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-e7a31fed6a900b11dfab941fd149f273@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260926T100000
 DTEND;TZID=America/Mexico_City:20260926T200000
 SUMMARY:Pokémon GO: Maestría de Captura (Phantump)
@@ -332,7 +332,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-f24ecf155cf19fcfc6a6562d2fba353e@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260928T180000
 DTEND;TZID=America/Mexico_City:20260928T190000
 SUMMARY:Pokémon GO: Lunes Max (Sobble Dinamax)
@@ -345,7 +345,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-56a805470c009215ec884d89a3422101@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260929T100000
 DTEND;TZID=America/Mexico_City:20261005T200000
 SUMMARY:Pokémon GO: Festival de la Cosecha 2026 - Recogida de Applin
@@ -358,7 +358,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-be09d4c9dd2834554f6e27c013694de3@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260930T000000
 DTEND;TZID=America/Mexico_City:20260930T235900
 SUMMARY:Pokémon GO: Incursiones Xerneas y Mega Victreebel
@@ -371,7 +371,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-8bb1309efea58f1fe2e8685df2b882e8@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260930T180000
 DTEND;TZID=America/Mexico_City:20260930T190000
 SUMMARY:Pokémon GO: Hora Legendaria (Xerneas)
@@ -384,7 +384,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-ac8f82eacfffa0d3b947d8d808fdb58d@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20260930T180000
 DTEND;TZID=America/Mexico_City:20260930T235900
 SUMMARY:Pokémon GO: Tiendas LEGO y Pokémon GO
@@ -397,7 +397,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-32b2c6d3c4071aa3c4019cf94179d7dd@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261001T180000
 DTEND;TZID=America/Mexico_City:20261001T190000
 SUMMARY:Pokémon GO: Hora Destacada (Seedot)
@@ -410,7 +410,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-cafa72d03733adac805d1f31ceb5c7d3@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261002T000000
 DTEND;TZID=America/Mexico_City:20261005T200000
 SUMMARY:Pokémon GO: Festival de la Cosecha - Invasión del Team GO Rocket
@@ -423,7 +423,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-e3044a126c80ed8214fb1cffb92b98ad@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261002T100000
 DTEND;TZID=America/Mexico_City:20261002T200000
 SUMMARY:Pokémon GO: Patrones Salvajes
@@ -436,7 +436,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-26754abc5bb31b200b4fc2e0a120f5bf@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261003T140000
 DTEND;TZID=America/Mexico_City:20261003T170000
 SUMMARY:Pokémon GO: Día de Combates Max de Cinderace Gigamax
@@ -449,7 +449,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-19be81fe2fc1fd11327d7f567af3ba1c@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261004T000000
 DTEND;TZID=America/Mexico_City:20261010T235900
 SUMMARY:Pokémon GO: Semana Mundial del Espacio 2026
@@ -462,7 +462,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-c4b307d660cccb3caacbebb1e295a02c@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261005T180000
 DTEND;TZID=America/Mexico_City:20261005T190000
 SUMMARY:Pokémon GO: Lunes Max (Sizzlipede Dinamax)
@@ -474,21 +474,8 @@ DESCRIPTION:Reminder: Pokémon GO: Lunes Max (Sizzlipede Dinamax)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-5fd2c6819f48e14597ab2fb54d2d76f4@gocalendar.local
-DTSTAMP:20261008T055640Z
-DTSTART;TZID=America/Mexico_City:20261007T000000
-DTEND;TZID=America/Mexico_City:20261007T235900
-SUMMARY:Pokémon GO: Rotación de Incursiones Oscuras (Landorus)
-DESCRIPTION:¡Landorus Oscuro (Forma Corpórea) aparece en Incursiones Oscuras de 5 estrellas cada fin de semana durante este período!\n\n📅 Periodo activo: oct 7, 06:00 → nov 3, 22:00\n\n💀 Jefes de Incursión:\n🔹 Nivel 5 Oscuro: Landorus (Forma Corpórea)\n\n---\n🎁 Bonus:\n✅ Mayor probabilidad de Landorus Oscuro Variocolor\n\n🔗 Fuente: LeekDuck.com
-BEGIN:VALARM
-TRIGGER:-PT0M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Rotación de Incursiones Oscuras (Landorus)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-event-dfa7d8bffd7c48515d3e2008e9bdb53d@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261007T000000
 DTEND;TZID=America/Mexico_City:20261007T235900
 SUMMARY:Pokémon GO: Incursiones Yveltal y Mega Blastoise
@@ -500,8 +487,21 @@ DESCRIPTION:Reminder: Pokémon GO: Incursiones Yveltal y Mega Blastoise
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:go-event-5fd2c6819f48e14597ab2fb54d2d76f4@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261007T000000
+DTEND;TZID=America/Mexico_City:20261007T235900
+SUMMARY:Pokémon GO: Rotación de Incursiones Oscuras (Landorus)
+DESCRIPTION:¡Landorus Oscuro (Forma Corpórea) aparece en Incursiones Oscuras de 5 estrellas cada fin de semana durante este período!\n\n📅 Periodo activo: oct 7, 06:00 → nov 3, 22:00\n\n💀 Jefes de Incursión:\n🔹 Nivel 5 Oscuro: Landorus (Forma Corpórea)\n\n---\n🎁 Bonus:\n✅ Mayor probabilidad de Landorus Oscuro Variocolor\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Rotación de Incursiones Oscuras (Landorus)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-event-1b35a24a4459031672d977db2bf32073@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261007T180000
 DTEND;TZID=America/Mexico_City:20261007T190000
 SUMMARY:Pokémon GO: Hora Legendaria (Yveltal)
@@ -514,7 +514,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-18377e6ade0f58789a94facb598d6d75@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261008T180000
 DTEND;TZID=America/Mexico_City:20261008T190000
 SUMMARY:Pokémon GO: Hora Destacada (Elgyem)
@@ -527,7 +527,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-6e9bfc536e5227e9c6b4076eff0b98e3@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261010T140000
 DTEND;TZID=America/Mexico_City:20261010T170000
 SUMMARY:Pokémon GO: Día de la Comunidad (Zorua)
@@ -540,7 +540,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-bfae68ad0796b4c9ff040c4d11de197b@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261012T180000
 DTEND;TZID=America/Mexico_City:20261012T190000
 SUMMARY:Pokémon GO: Lunes Max (Rookidee Dinamax)
@@ -553,7 +553,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-ab6b581349b0845ccadbc9597dc138b9@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261013T100000
 DTEND;TZID=America/Mexico_City:20261019T200000
 SUMMARY:Pokémon GO: Maratón de Otoño - Travesía de Compañero
@@ -566,7 +566,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-d02d2ac7b9fe3767c3757acd650dd5c4@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261014T000000
 DTEND;TZID=America/Mexico_City:20261014T235900
 SUMMARY:Pokémon GO: Incursiones Dialga y Mega Dragonite
@@ -579,7 +579,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-c5e663679684b8757683a6faaa6dd9ca@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261014T180000
 DTEND;TZID=America/Mexico_City:20261014T190000
 SUMMARY:Pokémon GO: Hora Legendaria (Dialga)
@@ -592,7 +592,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-71b2557c1796b8f677f8e8e4f089eee5@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261015T180000
 DTEND;TZID=America/Mexico_City:20261015T190000
 SUMMARY:Pokémon GO: Hora Destacada (Stufful)
@@ -605,7 +605,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-514a934413f9c1b0702e1bccb3622763@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261017T110000
 DTEND;TZID=America/Mexico_City:20261017T170000
 SUMMARY:Pokémon GO: Día de Eclosiones de Sandile
@@ -618,7 +618,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-e050575746e1448cb35514d57447a6f2@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261019T170000
 DTEND;TZID=America/Mexico_City:20261024T235900
 SUMMARY:Pokémon GO: Lluvia de Minior - Oriónidas 2026
@@ -631,7 +631,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-a2b797b86f83d41c46a7601b015378b2@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261019T180000
 DTEND;TZID=America/Mexico_City:20261019T190000
 SUMMARY:Pokémon GO: Lunes Max (Sneasel Dinamax)
@@ -644,7 +644,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-07716906723b60cb34e68ab677643b62@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261021T000000
 DTEND;TZID=America/Mexico_City:20261021T235900
 SUMMARY:Pokémon GO: Incursiones Palkia y Mega Charizard
@@ -657,7 +657,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-b08cfc72463dece181430d4b002d5a52@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261021T180000
 DTEND;TZID=America/Mexico_City:20261021T190000
 SUMMARY:Pokémon GO: Hora Legendaria (Palkia)
@@ -670,7 +670,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-2c4a29a3bbfacea4e1171a952c01ef46@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261022T180000
 DTEND;TZID=America/Mexico_City:20261022T190000
 SUMMARY:Pokémon GO: Hora Destacada (Morelull)
@@ -683,7 +683,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-5249829602d4d21cac5a734851e8f5c6@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261024T140000
 DTEND;TZID=America/Mexico_City:20261024T170000
 SUMMARY:Pokémon GO: Día de Combates Max del Trío del Lago Dinamax
@@ -696,7 +696,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-7a4685cee3c570efecae79368f0ad86f@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261026T180000
 DTEND;TZID=America/Mexico_City:20261026T190000
 SUMMARY:Pokémon GO: Lunes Max (Sableye Dinamax)
@@ -709,11 +709,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-8140ac68a411815f046999fae9e42f3a@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261027T100000
-DTEND;TZID=America/Mexico_City:20261031T200000
+DTEND;TZID=America/Mexico_City:20261101T100000
 SUMMARY:Pokémon GO: Halloween 2026 Parte I
-DESCRIPTION:¡La celebración anual de Halloween comienza con Pokémon de tipo Fantasma y siniestras sorpresas!\n\n💀 Novedades del Evento:\n🔹 Apariciones salvajes de tipo Fantasma y Siniestro\n🔹 Encuentros con Pokémon disfrazados\n🔹 Investigación Temporal espeluznante y encuentros con Spiritomb\n🔹 Fondo y música especial de Halloween\n\n---\n🎁 Bonus:\n✅ 2x Caramelos por captura\n✅ 2x Caramelos por transferencia\n✅ Caramelos XL adicionales al capturar Pokémon disfrazados\n\n🔗 Fuente: LeekDuck.com
+DESCRIPTION:¡La celebración anual de Halloween comienza con Pokémon de tipo Fantasma, debuts con disfraz y siniestras sorpresas!\n\n💀 Novedades del Evento:\n🔹 Debuts: Pikachu con gorro y esclavina, Zubat con sombrero de copa, Sinistea con lazo (todos pueden ser Variocolor)\n🔹 Encuentros salvajes: Zubat con sombrero de copa, Duskull, Piplup con disfraz de Travesuras de Halloween; raro: Drifblim con disfraz de Travesuras de Halloween\n🔹 Sorpresas de Dulce o Truco: Toca objetos misteriosos en el mapa para recibir Caramelos\n🔹 Música de Pueblo Lavanda por la noche y decoración temática\n\n---\n🎁 Bonus:\n✅ 2x Caramelos por captura (Pase GO Nivel 1)\n✅ 2x Polvo Estelar por captura (Pase GO Nivel 2)\n✅ Investigaciones de Campo exclusivas del evento\n\n🔗 Fuente: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
@@ -722,7 +722,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-c915b490ebebb321716714545f4e7c97@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261028T000000
 DTEND;TZID=America/Mexico_City:20261028T235900
 SUMMARY:Pokémon GO: Incursiones Giratina (Forma Origen) y Mega Sableye
@@ -735,7 +735,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-ad9e4bac762c55189c7fc7ea5d076c14@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261028T180000
 DTEND;TZID=America/Mexico_City:20261028T190000
 SUMMARY:Pokémon GO: Hora Legendaria (Giratina Forma Origen)
@@ -748,7 +748,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-1678be6d7d6bd5f9a620804bb04e5383@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261029T180000
 DTEND;TZID=America/Mexico_City:20261029T190000
 SUMMARY:Pokémon GO: Hora Destacada (Gastly)
@@ -760,25 +760,25 @@ DESCRIPTION:Reminder: Pokémon GO: Hora Destacada (Gastly)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-23b5b274cc8a81596cd3ef4121c219d2@gocalendar.local
-DTSTAMP:20261008T055640Z
+UID:go-event-2b53409dd76cd045928fd830fda427e9@gocalendar.local
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261031T140000
 DTEND;TZID=America/Mexico_City:20261031T170000
-SUMMARY:Pokémon GO: Día de Super Megaincursiones
-DESCRIPTION:¡Día especial de Incursiones Super Mega de Halloween!\n\n💀 Jefe Destacado:\n🔹 Jefe de Incursión Super Mega (Por anunciar)\n\n---\n🎁 Bonus:\n✅ Hasta 5 pases de incursión gratuitos adicionales en Gimnasios\n✅ Límite aumentado de pases de incursión remota\n✅ Mayor probabilidad de Variocolor para el jefe destacado\n\n🔗 Fuente: LeekDuck.com
+SUMMARY:Pokémon GO: Día de Super Megaincursiones de Chandelure
+DESCRIPTION:¡Mega-Chandelure hace su debut en Pokémon GO durante el Día de Super Megaincursiones de Chandelure!\n\n💀 Jefe Destacado:\n🔹 Mega-Chandelure (Super Megaincursiones)\n🔹 Nivel Mega 1 desbloqueado al capturar; puede alcanzar el nivel Super Max\n🔹 Ataque cargado adicional: Viento Aciago+\n\n---\n🎁 Bonus:\n✅ Hasta 6 pases de incursión gratuitos girando fotodiscos de Gimnasios\n✅ Mayor probabilidad de encontrar a Chandelure Variocolor en Super Megaincursiones\n✅ Límite diario de incursiones remotas aumentado a 20 (30 oct 17:00 – 31 oct 20:00 PDT)\n✅ Desafío Global con bonus desbloqueables\n\n🔗 Fuente: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Día de Super Megaincursiones
+DESCRIPTION:Reminder: Pokémon GO: Día de Super Megaincursiones de Chandelure
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-5f832decf0bd45001345c86cb1d8d83a@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261101T100000
 DTEND;TZID=America/Mexico_City:20261105T200000
 SUMMARY:Pokémon GO: Halloween 2026 Parte II
-DESCRIPTION:¡La fiesta de Halloween continúa a principios de noviembre con la segunda parte!\n\n💀 Novedades del Evento:\n🔹 Más Pokémon con disfraz y apariciones salvajes de tipo Fantasma\n🔹 Recompensas de la Investigación Temporal Parte II\n🔹 Exhibiciones especiales en Poképaradas\n\n---\n🎁 Bonus:\n✅ 2x Caramelos por captura\n✅ 2x Caramelos por eclosión\n✅ Mayor probabilidad de Caramelos XL al atrapar Pokémon disfrazados\n\n🔗 Fuente: LeekDuck.com
+DESCRIPTION:¡La fiesta de Halloween continúa a principios de noviembre con la segunda parte!\n\n💀 Novedades del Evento:\n🔹 Debut: Greavard Variocolor debuta en Pokémon GO\n🔹 Nivel Mega Super Max: Mega-Sableye puede alcanzar el nivel Super Max con el ataque cargado Tinieblas+\n🔹 Encuentros salvajes: Litwick, Greavard, Rowlet con disfraz de Halloween y Gengar con disfraz del Festival Espeluznante\n🔹 Incursiones Nivel 1: Pikachu y Sinistea disfrazados\n\n---\n🎁 Bonus:\n✅ 2x Caramelos por captura (Pase GO Nivel 1)\n✅ 2x Polvo Estelar por captura (Pase GO Nivel 2)\n✅ Investigaciones de Campo\n\n🔗 Fuente: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
@@ -786,8 +786,73 @@ DESCRIPTION:Reminder: Pokémon GO: Halloween 2026 Parte II
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:go-event-70195bce1f2371601fa319a47c79af2d@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261102T180000
+DTEND;TZID=America/Mexico_City:20261102T190000
+SUMMARY:Pokémon GO: Lunes Max (Machop Dinamax)
+DESCRIPTION:¡Evento Lunes Max con Machop Dinamax!\n\n💀 Combates Max:\n🔹 Machop Dinamax\n\n---\n🎁 Bonus:\n✅ Aumento de Partículas Max\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Lunes Max (Machop Dinamax)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-fb61bdbc144bed1fb1ed08b68a2fb679@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261104T000000
+DTEND;TZID=America/Mexico_City:20261104T235900
+SUMMARY:Pokémon GO: Incursiones Giratina (Forma Modificada) y Mega Sableye
+DESCRIPTION:¡Incursiones Legendarias y Megaincursiones destacadas!\n\n📅 Periodo activo: nov 4, 10:00 → nov 8, 10:00\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Giratina (Forma Modificada)\n🔹 Megaincursiones: Mega-Sableye (continuación)\n\n---\n🎁 Bonus:\n✅ Honor Balls adicionales en combates de Gimnasio\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Incursiones Giratina (Forma Modificada) y Mega Sableye
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-1a2a70299ce800b52b5da55432d386dd@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261104T000000
+DTEND;TZID=America/Mexico_City:20261104T235900
+SUMMARY:Pokémon GO: Rotación de Incursiones Oscuras (Tornadus)
+DESCRIPTION:¡Tornadus Oscuro (Forma Corpórea) aparece en Incursiones Oscuras de 5 estrellas cada fin de semana durante este período!\n\n📅 Periodo activo: nov 4, 06:00 → nov 8, 22:00\n\n💀 Jefes de Incursión:\n🔹 Nivel 5 Oscuro: Tornadus (Forma Corpórea)\n\n---\n🎁 Bonus:\n✅ Mayor probabilidad de Tornadus Oscuro Variocolor\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Rotación de Incursiones Oscuras (Tornadus)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-aeb0958fbb2e4a5b4c693f5634931f69@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261104T180000
+DTEND;TZID=America/Mexico_City:20261104T190000
+SUMMARY:Pokémon GO: Hora Legendaria (Giratina Forma Modificada)
+DESCRIPTION:¡Hora de Incursiones semanal con el Pokémon Legendario Giratina (Forma Modificada)!\n\n💀 Jefes de Incursión:\n🔹 Giratina (Forma Modificada)\n\n---\n🎁 Bonus:\n✅ Aumento de Incursiones Nivel 5\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Hora Legendaria (Giratina Forma Modificada)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-3724593c73f593408fd7238f07fb5ef1@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261105T180000
+DTEND;TZID=America/Mexico_City:20261105T190000
+SUMMARY:Pokémon GO: Hora Destacada (Teddiursa con sombrero de bruja)
+DESCRIPTION:¡Hora Destacada semanal con Teddiursa con sombrero de bruja!\n\n💀 Pokémon Destacado:\n🔹 Teddiursa con sombrero de bruja (Puede ser Variocolor)\n\n---\n🎁 Bonus:\n✅ 2x XP por evolucionar\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Hora Destacada (Teddiursa con sombrero de bruja)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-event-0ecab7d1e6ca00ff307bf2ac0ce673b1@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261106T000000
 DTEND;TZID=America/Mexico_City:20261108T235900
 SUMMARY:Pokémon GO: Área Silvestre 2026 - Eventos Presenciales
@@ -799,8 +864,47 @@ DESCRIPTION:Reminder: Pokémon GO: Área Silvestre 2026 - Eventos Presenciales
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:go-event-7822cc00919295751096a60f876ce89c@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261109T100000
+DTEND;TZID=America/Mexico_City:20261113T200000
+SUMMARY:Pokémon GO: Hacia la Naturaleza
+DESCRIPTION:¡Regresa a la naturaleza en una aventura de tipos Acero y Dragón rumbo al Área Silvestre de Pokémon GO 2026!\n\n💀 Combates Max e Incursiones:\n🔹 Combates Max: Regidrago Dinamax (debut en Combates Max de 5 estrellas), Meltan Dinamax (vía Pase GO)\n🔹 Incursiones Nivel 5: Zacian (Espada Suprema) y Zamazenta (Escudo Supremo)\n🔹 Incursiones Nivel 3: Druddigon, Orthworm\n🔹 Combates Max de 5 estrellas diarios (18:00 - 19:00): Registeel (11 nov), Regidrago (12 nov), Latias y Latios (13 nov)\n\n---\n🎁 Bonus:\n✅ Límite de Incursiones Remotas aumentado a 30 (9–13 nov)\n✅ Probabilidad de encontrar a Gimmighoul Variocolor usando el Cofre de Monedas\n✅ Probabilidad de encontrar a Meltan Variocolor en la Caja Misteriosa con tiempo de espera reducido\n✅ Posibilidad de obtener un nuevo Fondo Especial en Incursiones y Combates Max de 5 estrellas\n✅ Desafío Global Hacia la Naturaleza\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Hacia la Naturaleza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-cb99ad9620bbf82b7cdecba0d8995eab@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261109T180000
+DTEND;TZID=America/Mexico_City:20261109T190000
+SUMMARY:Pokémon GO: Hora Legendaria (Zacian Espada Suprema)
+DESCRIPTION:¡Hora de Incursiones especial con Zacian (Espada Suprema)!\n\n💀 Jefes de Incursión:\n🔹 Zacian (Espada Suprema)\n\n---\n🎁 Bonus:\n✅ Aumento de Incursiones Nivel 5\n✅ Consigue Energía Espada Suprema\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Hora Legendaria (Zacian Espada Suprema)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-82092c2ee74fb7ed93981f431fdfbd72@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261110T180000
+DTEND;TZID=America/Mexico_City:20261110T190000
+SUMMARY:Pokémon GO: Hora Legendaria (Zamazenta Escudo Supremo)
+DESCRIPTION:¡Hora de Incursiones especial con Zamazenta (Escudo Supremo)!\n\n💀 Jefes de Incursión:\n🔹 Zamazenta (Escudo Supremo)\n\n---\n🎁 Bonus:\n✅ Aumento de Incursiones Nivel 5\n✅ Consigue Energía Escudo Supremo\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Hora Legendaria (Zamazenta Escudo Supremo)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-event-28c4776ae7a5a1cefa7b3a03870d2897@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261114T100000
 DTEND;TZID=America/Mexico_City:20261115T180000
 SUMMARY:Pokémon GO: Área Silvestre 2026 - Global
@@ -813,7 +917,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-12d801f89dfc272b421d5e3518daf3c7@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261114T170000
 DTEND;TZID=America/Mexico_City:20261119T235900
 SUMMARY:Pokémon GO: Lluvia de Minior - Leónidas 2026
@@ -825,21 +929,138 @@ DESCRIPTION:Reminder: Pokémon GO: Lluvia de Minior - Leónidas 2026
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-event-a43ba6d48b15d5debc81b7827e6e12d0@gocalendar.local
-DTSTAMP:20261008T055640Z
-DTSTART;TZID=America/Mexico_City:20261121T140000
-DTEND;TZID=America/Mexico_City:20261121T170000
-SUMMARY:Pokémon GO: Día de la Comunidad de Noviembre
-DESCRIPTION:¡Día de la Comunidad de noviembre con un Pokémon especial protagonista!\n\n💀 Pokémon Protagonista:\n🔹 Pokémon Destacado (Por anunciar)\n🔹 Movimiento exclusivo de evento al evolucionar\n\n---\n🎁 Bonus:\n✅ Inciensos y Módulos Cebo de 3 horas\n✅ Bonus de captura del evento\n✅ Intercambios especiales y sorpresas en instantáneas\n\n🔗 Fuente: LeekDuck.com
+UID:go-event-9054c50bcbe0aca0210e5d01ad67bf86@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261116T000000
+DTEND;TZID=America/Mexico_City:20261116T235900
+SUMMARY:Pokémon GO: Incursiones Cresselia, Darkrai y Mega Banette
+DESCRIPTION:¡Incursiones Legendarias, Singulares y Megaincursiones destacadas!\n\n📅 Periodo activo: nov 16, 10:00 → nov 24, 10:00\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Cresselia y Darkrai\n🔹 Megaincursiones: Mega-Banette\n\n---\n🎁 Bonus:\n✅ Honor Balls adicionales en combates de Gimnasio\n\n🔗 Fuente: LeekDuck.com
 BEGIN:VALARM
 TRIGGER:-PT0M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Pokémon GO: Día de la Comunidad de Noviembre
+DESCRIPTION:Reminder: Pokémon GO: Incursiones Cresselia, Darkrai y Mega Banette
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-5018418c88a30314f22789963a42cf28@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261116T000000
+DTEND;TZID=America/Mexico_City:20261116T235900
+SUMMARY:Pokémon GO: Rotación de Incursiones Oscuras (Tornadus)
+DESCRIPTION:¡Tornadus Oscuro (Forma Corpórea) aparece en Incursiones Oscuras de 5 estrellas cada fin de semana durante este período!\n\n📅 Periodo activo: nov 16, 06:00 → dic 1, 22:00\n\n💀 Jefes de Incursión:\n🔹 Nivel 5 Oscuro: Tornadus (Forma Corpórea)\n\n---\n🎁 Bonus:\n✅ Mayor probabilidad de Tornadus Oscuro Variocolor\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Rotación de Incursiones Oscuras (Tornadus)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-e7428bb668191445c4e363951c94f006@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261116T100000
+DTEND;TZID=America/Mexico_City:20261123T200000
+SUMMARY:Pokémon GO: Rutas Dinamax
+DESCRIPTION:¡Nuevo evento Dinamax durante la temporada Senderos Crepusculares!\n\n💀 Novedades del Evento:\n🔹 Detalles por anunciar\n\n---\n🎁 Bonus:\n✅ Por anunciar\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Rutas Dinamax
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-dcd74e944c7d07688345d165efb3b099@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261118T180000
+DTEND;TZID=America/Mexico_City:20261118T190000
+SUMMARY:Pokémon GO: Hora Legendaria (Cresselia y Darkrai)
+DESCRIPTION:¡Hora de Incursiones semanal con el Pokémon Legendario Cresselia y el Pokémon Singular Darkrai!\n\n💀 Jefes de Incursión:\n🔹 Cresselia y Darkrai\n\n---\n🎁 Bonus:\n✅ Aumento de Incursiones Nivel 5\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Hora Legendaria (Cresselia y Darkrai)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-af00da2101d5df9e1f36e7655352db86@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261121T140000
+DTEND;TZID=America/Mexico_City:20261121T170000
+SUMMARY:Pokémon GO: Día de la Comunidad de Pawniard
+DESCRIPTION:¡Día de la Comunidad de noviembre con Pawniard, el Pokémon Filoafilado!\n\n💀 Pokémon y Movimientos Destacados:\n🔹 Pawniard aparecerá con más frecuencia en estado salvaje (Puede ser Variocolor, posibilidad de fondo especial)\n🔹 Ataque destacado: Evoluciona a Bisharp durante el evento o hasta 4 horas después para obtener a Kingambit con Genufendiente\n🔹 Requisito de evolución temporal: Evoluciona a Bisharp en Kingambit tras derrotar a 1 jefe de incursión tipo Siniestro o Acero (14:00 – 21:00 hora local)\n🔹 Bonus de Módulo Cebo: Gran probabilidad de Pawniard en Poképaradas con Cebos activos hasta las 21:00\n\n---\n🎁 Bonus:\n✅ 1/4 de distancia para eclosionar Huevos colocados en incubadoras durante el evento\n✅ 2x Caramelos por captura\n✅ 2x Probabilidad de Caramelos XL (Entrenadores Nv. 31+)\n✅ Incienso de 3 horas y Módulos Cebo de 1 hora\n✅ 1 Intercambio Especial adicional (máx. 2 en el día)\n✅ 50% menos de Polvo Estelar en intercambios\n✅ Sorpresas en instantáneas\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Día de la Comunidad de Pawniard
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-1124cedc783bdc9cc408b5dbb079ef50@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261123T180000
+DTEND;TZID=America/Mexico_City:20261123T190000
+SUMMARY:Pokémon GO: Lunes Max (Espurr Dinamax)
+DESCRIPTION:¡Evento Lunes Max con Espurr Dinamax!\n\n💀 Combates Max:\n🔹 Espurr Dinamax\n\n---\n🎁 Bonus:\n✅ Aumento de Partículas Max\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Lunes Max (Espurr Dinamax)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-ced847df95205846eceec5e4c8271d19@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261124T100000
+DTEND;TZID=America/Mexico_City:20261130T200000
+SUMMARY:Pokémon GO: Deseos Crepusculares
+DESCRIPTION:¡Concluye la temporada Senderos Crepusculares con el evento Deseos Crepusculares!\n\n💀 Novedades del Evento:\n🔹 Detalles por anunciar\n\n---\n🎁 Bonus:\n✅ Por anunciar\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Deseos Crepusculares
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-1f1de76edd4b17b8c42151e36e261e70@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261125T000000
+DTEND;TZID=America/Mexico_City:20261125T235900
+SUMMARY:Pokémon GO: Incursiones Deoxys y Mega Metagross
+DESCRIPTION:¡Incursiones Singulares y Megaincursiones destacadas!\n\n📅 Periodo activo: nov 25, 10:00 → dic 1, 10:00\n\n💀 Jefes de Incursión:\n🔹 Nivel 5: Deoxys (Formas Normal, Defensa, Ataque y Velocidad)\n🔹 Megaincursiones: Mega-Metagross\n\n---\n🎁 Bonus:\n✅ Honor Balls adicionales en combates de Gimnasio\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Incursiones Deoxys y Mega Metagross
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-34397b3cd4647f3c1307fa2ffded8200@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261125T180000
+DTEND;TZID=America/Mexico_City:20261125T190000
+SUMMARY:Pokémon GO: Hora Legendaria (Deoxys)
+DESCRIPTION:¡Hora de Incursiones semanal con todas las formas de Deoxys!\n\n💀 Jefes de Incursión:\n🔹 Deoxys (Formas Normal, Defensa, Ataque y Velocidad)\n\n---\n🎁 Bonus:\n✅ Aumento de Incursiones Nivel 5\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Hora Legendaria (Deoxys)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-event-c04fdf6806add8389dc9ab10d514d483@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261126T180000
+DTEND;TZID=America/Mexico_City:20261126T190000
+SUMMARY:Pokémon GO: Hora Destacada (Noibat)
+DESCRIPTION:¡Hora Destacada semanal con Noibat!\n\n💀 Pokémon Destacado:\n🔹 Noibat (Puede ser Variocolor)\n\n---\n🎁 Bonus:\n✅ 2x Caramelos por captura\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Hora Destacada (Noibat)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-event-17f8c9e3cbaaa1ad1c65b8ecfe2685e1@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261128T140000
 DTEND;TZID=America/Mexico_City:20261128T170000
 SUMMARY:Pokémon GO: Día de Super Megaincursiones (Noviembre)
@@ -851,8 +1072,21 @@ DESCRIPTION:Reminder: Pokémon GO: Día de Super Megaincursiones (Noviembre)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:go-event-406edb1a28ee748120e957db6410710f@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20261130T180000
+DTEND;TZID=America/Mexico_City:20261130T190000
+SUMMARY:Pokémon GO: Lunes Max (Cryogonal Dinamax)
+DESCRIPTION:¡Evento Lunes Max con Cryogonal Dinamax!\n\n💀 Combates Max:\n🔹 Cryogonal Dinamax\n\n---\n🎁 Bonus:\n✅ Aumento de Partículas Max\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Lunes Max (Cryogonal Dinamax)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-event-a809b0c1d695dc4366dbca621d46e163@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20261211T170000
 DTEND;TZID=America/Mexico_City:20261216T235900
 SUMMARY:Pokémon GO: Lluvia de Minior - Gemínidas 2026
@@ -864,8 +1098,21 @@ DESCRIPTION:Reminder: Pokémon GO: Lluvia de Minior - Gemínidas 2026
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:go-event-97c34e4937e21188976504d07c7d16d8@gocalendar.local
+DTSTAMP:20261023T030425Z
+DTSTART;TZID=America/Mexico_City:20270219T000000
+DTEND;TZID=America/Mexico_City:20270221T235900
+SUMMARY:Pokémon GO: Tour de Pokémon GO: Alola - Eventos Presenciales
+DESCRIPTION:¡El Tour de Pokémon GO regresa en febrero de 2027 para celebrar la región de Alola de Pokémon Sol, Pokémon Luna, Pokémon Ultrasol y Pokémon Ultraluna con eventos presenciales!\n\n📍 Sedes (19–21 feb 2027):\n🔹 Kaohsiung, Taiwán\n🔹 Los Ángeles, California, EE. UU.\n\n💀 Novedades del Evento:\n🔹 Horarios y detalles adicionales por anunciar la próxima temporada\n\n---\n🎁 Bonus:\n✅ Por anunciar\n\n⚠️ Eventos presenciales con boleto. Cada sede se rige por su hora local.\n\n🔗 Fuente: LeekDuck.com
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pokémon GO: Tour de Pokémon GO: Alola - Eventos Presenciales
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-event-1522f228a477c43bed2829a0fc0f7e55@gocalendar.local
-DTSTAMP:20261008T055640Z
+DTSTAMP:20261023T030425Z
 DTSTART;TZID=America/Mexico_City:20270227T000000
 DTEND;TZID=America/Mexico_City:20270228T235900
 SUMMARY:Pokémon GO: Tour de Pokémon GO: Alola - Global
