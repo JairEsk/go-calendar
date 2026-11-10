@@ -73,14 +73,25 @@ const checkEvents = (file, lang) => {
 const enOk = checkEvents('events_en.json', 'EN');
 const esOk = checkEvents('events_es.json', 'ES');
 
-// Check parity (blocking)
+// Check parity (blocking on main). Single-language PRs change only one file,
+// so their count is expected to differ until the matching PR merges. The
+// parity check is skipped on pull_request runs (GitHub Actions sets
+// GITHUB_EVENT_NAME=pull_request there) and still runs on push to main.
+// It can also be skipped locally with --skip-parity.
+const skipParity = process.argv.includes('--skip-parity') ||
+  process.env.GITHUB_EVENT_NAME === 'pull_request';
+const skipReason = process.argv.includes('--skip-parity')
+  ? '--skip-parity'
+  : 'pull_request run';
 const enFile = resolveFile('events_en.json');
 const esFile = resolveFile('events_es.json');
 const enEvents = JSON.parse(fs.readFileSync(enFile, 'utf8'));
 const esEvents = JSON.parse(fs.readFileSync(esFile, 'utf8'));
 
 let parityOk = true;
-if (enEvents.length !== esEvents.length) {
+if (skipParity) {
+  console.log(`[PARITY SKIP] Parity check skipped (${skipReason}): EN=${enEvents.length} vs ES=${esEvents.length}. It still runs on push to main.`);
+} else if (enEvents.length !== esEvents.length) {
   console.error(`[PARITY ERROR] Count mismatch: EN=${enEvents.length} vs ES=${esEvents.length}`);
   parityOk = false;
 } else {
